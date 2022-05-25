@@ -1,0 +1,540 @@
+CRITICAL - 2021-12-05 22:29:42 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:30:58 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:31:00 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:32:15 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:32:16 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:32:16 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:32:18 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:32:19 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:32:20 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:32:21 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:32:22 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:34:08 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:34:09 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:34:10 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:34:10 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:34:10 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:34:10 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:34:10 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:34:11 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:34:11 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:34:11 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:34:11 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:34:11 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:34:12 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:34:12 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:34:12 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:34:12 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:36:55 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:36:56 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:36:57 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:36:57 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:36:57 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:36:57 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:36:57 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:36:59 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:37:00 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:37:01 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:37:01 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:37:02 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:37:02 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:37:03 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:37:03 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:37:03 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:37:03 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:37:03 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:37:04 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:37:04 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:39:18 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:39:21 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:41:56 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:42:02 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:42:12 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:42:15 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:45:08 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:45:09 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:45:10 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:50:26 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:50:52 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:51:16 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:55:48 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:55:48 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:55:50 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:55:52 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:55:53 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:55:53 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:55:54 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:55:54 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:55:54 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 22:59:59 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 23:04:04 --> Class 'App\Controllers\Database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 23:04:14 --> Class 'App\Controllers\database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 23:04:15 --> Class 'App\Controllers\database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 23:04:16 --> Class 'App\Controllers\database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 23:04:16 --> Class 'App\Controllers\database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 23:04:16 --> Class 'App\Controllers\database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 23:04:16 --> Class 'App\Controllers\database' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 23:40:30 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 23:40:31 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 23:40:31 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 23:40:32 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 23:40:32 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 23:40:32 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 23:40:32 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 23:40:33 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 23:40:33 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 23:40:33 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 23:40:33 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 23:40:33 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 23:40:34 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-05 23:40:34 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

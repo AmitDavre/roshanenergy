@@ -1,0 +1,428 @@
+CRITICAL - 2021-12-24 00:22:49 --> mysqli_real_escape_string() expects exactly 2 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli_real_esc...', '/home1/wartiz/p...', 905, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(905): mysqli_real_escape_string('Account number\t...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-24 00:24:01 --> mysqli_real_escape_string() expects exactly 2 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli_real_esc...', '/home1/wartiz/p...', 905, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(905): mysqli_real_escape_string('Account number\t...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-24 00:26:34 --> syntax error, unexpected 'die' (T_EXIT), expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home1/wartiz/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/impor...')
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/impor...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 00:36:29 --> syntax error, unexpected 'die' (T_EXIT), expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home1/wartiz/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/impor...')
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/impor...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 00:36:33 --> syntax error, unexpected 'die' (T_EXIT), expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home1/wartiz/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/impor...')
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/impor...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 00:37:14 --> syntax error, unexpected 'die' (T_EXIT), expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home1/wartiz/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/impor...')
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/impor...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 00:37:34 --> syntax error, unexpected 'die' (T_EXIT), expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home1/wartiz/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/impor...')
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/impor...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 00:42:23 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home1/wartiz/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/impor...')
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/impor...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 00:42:46 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home1/wartiz/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/impor...')
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/impor...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 00:42:58 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home1/wartiz/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/impor...')
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/impor...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 00:43:19 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home1/wartiz/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/impor...')
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/impor...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 00:43:22 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home1/wartiz/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/impor...')
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/impor...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 00:45:39 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home1/wartiz/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/impor...')
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/impor...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 00:45:42 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home1/wartiz/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/impor...')
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/impor...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 01:06:21 --> Call to undefined method App\Controllers\Dashboard::CustomersModel()
+#0 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-24 01:06:41 --> Undefined property: App\Controllers\Dashboard::$CustomersModel
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(916): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/home1/wartiz/p...', 916, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 01:07:36 --> Object of class App\Models\CustomersModel could not be converted to string
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(917): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', '/home1/wartiz/p...', 917, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 01:08:05 --> Object of class App\Models\CustomersModel could not be converted to string
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(917): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', '/home1/wartiz/p...', 917, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 01:08:38 --> Object of class App\Models\CustomersModel could not be converted to string
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(917): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', '/home1/wartiz/p...', 917, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 01:13:59 --> Object of class App\Models\CustomersModel could not be converted to string
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(917): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', '/home1/wartiz/p...', 917, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 01:14:51 --> Undefined offset: 1
+#0 /home1/wartiz/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(125): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home1/wartiz/p...', 125, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#2 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#6 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(284): view('template_with_h...', Array)
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'img', 'favicon.ico')
+#10 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2021-12-24 01:15:00 --> Undefined offset: 1
+#0 /home1/wartiz/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(125): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home1/wartiz/p...', 125, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#2 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#6 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(284): view('template_with_h...', Array)
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'img', 'favicon.ico')
+#10 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2021-12-24 01:15:07 --> Undefined offset: 1
+#0 /home1/wartiz/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(125): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home1/wartiz/p...', 125, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#2 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#6 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(284): view('template_with_h...', Array)
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'img', 'favicon.ico')
+#10 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2021-12-24 01:19:02 --> Undefined offset: 1
+#0 /home1/wartiz/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(125): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home1/wartiz/p...', 125, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#2 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#6 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(284): view('template_with_h...', Array)
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'img', 'favicon.ico')
+#10 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2021-12-24 01:19:11 --> Undefined index: email
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(918): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 918, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 01:20:50 --> syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';'
+#0 /home1/wartiz/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/impor...')
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/impor...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 01:21:15 --> syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';'
+#0 /home1/wartiz/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/impor...')
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/impor...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 01:23:00 --> There is no data to insert.
+#0 /home1/wartiz/public_html/roshan_energy/system/BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 /home1/wartiz/public_html/roshan_energy/system/Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(918): CodeIgniter\Model->insert(Array)
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-24 01:23:18 --> There is no data to insert.
+#0 /home1/wartiz/public_html/roshan_energy/system/BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 /home1/wartiz/public_html/roshan_energy/system/Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(918): CodeIgniter\Model->insert(Array)
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-24 01:23:22 --> There is no data to insert.
+#0 /home1/wartiz/public_html/roshan_energy/system/BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 /home1/wartiz/public_html/roshan_energy/system/Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(918): CodeIgniter\Model->insert(Array)
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-24 01:27:31 --> There is no data to insert.
+#0 /home1/wartiz/public_html/roshan_energy/system/BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 /home1/wartiz/public_html/roshan_energy/system/Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(918): CodeIgniter\Model->insert(Array)
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-24 01:30:14 --> There is no data to insert.
+#0 /home1/wartiz/public_html/roshan_energy/system/BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 /home1/wartiz/public_html/roshan_energy/system/Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(918): CodeIgniter\Model->insert(Array)
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-24 01:35:00 --> Undefined variable: builder
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(918): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 918, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 01:36:06 --> There is no data to insert.
+#0 /home1/wartiz/public_html/roshan_energy/system/BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 /home1/wartiz/public_html/roshan_energy/system/Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(918): CodeIgniter\Model->insert(Array)
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-24 01:37:23 --> There is no data to insert.
+#0 /home1/wartiz/public_html/roshan_energy/system/BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 /home1/wartiz/public_html/roshan_energy/system/Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(918): CodeIgniter\Model->insert(Array)
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-24 01:37:27 --> There is no data to insert.
+#0 /home1/wartiz/public_html/roshan_energy/system/BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 /home1/wartiz/public_html/roshan_energy/system/Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(918): CodeIgniter\Model->insert(Array)
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-24 01:37:37 --> There is no data to insert.
+#0 /home1/wartiz/public_html/roshan_energy/system/BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 /home1/wartiz/public_html/roshan_energy/system/Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(918): CodeIgniter\Model->insert(Array)
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-24 01:38:09 --> There is no data to insert.
+#0 /home1/wartiz/public_html/roshan_energy/system/BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 /home1/wartiz/public_html/roshan_energy/system/Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(918): CodeIgniter\Model->insert(Array)
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-24 01:51:49 --> Undefined offset: 1
+#0 /home1/wartiz/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(125): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home1/wartiz/p...', 125, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#2 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#6 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(284): view('template_with_h...', Array)
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'img', 'favicon.ico')
+#10 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2021-12-24 03:02:33 --> Undefined variable: model
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(966): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 966, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/Router/Router.php(519): include_once('/home1/wartiz/p...')
+#2 /home1/wartiz/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/impor...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/impor...')
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-24 03:35:47 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 /home1/wartiz/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/impor...')
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/impor...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 03:37:32 --> Undefined offset: 35
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(959): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home1/wartiz/p...', 959, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 03:37:48 --> Undefined offset: 35
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(959): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home1/wartiz/p...', 959, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 03:37:53 --> Undefined offset: 35
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(959): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home1/wartiz/p...', 959, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 03:38:38 --> Undefined offset: 35
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(959): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home1/wartiz/p...', 959, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 03:38:42 --> Undefined offset: 35
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(959): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home1/wartiz/p...', 959, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 03:39:43 --> Undefined offset: 35
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(959): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home1/wartiz/p...', 959, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 03:40:45 --> Undefined offset: 1
+#0 /home1/wartiz/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(125): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home1/wartiz/p...', 125, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#2 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#6 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(284): view('template_with_h...', Array)
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'img', 'favicon.ico')
+#10 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2021-12-24 03:42:03 --> Array to string conversion
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(963): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', '/home1/wartiz/p...', 963, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 03:44:22 --> Undefined offset: 35
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(959): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home1/wartiz/p...', 959, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-24 03:48:18 --> Undefined offset: 35
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(959): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home1/wartiz/p...', 959, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->importCsvToDb()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

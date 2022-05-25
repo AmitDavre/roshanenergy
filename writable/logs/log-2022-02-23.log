@@ -1,0 +1,354 @@
+CRITICAL - 2022-02-23 00:16:20 --> Undefined offset: 1
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(160): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 160, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home4/projectmanagment/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#6 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Dashboard.php(377): view('template_with_h...', Array)
+#9 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'admin-tools', 'admin-forms', 'custom-css', 'datepicker.css')
+#10 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-02-23 00:32:03 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(110): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 110, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-23 01:06:30 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(110): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 110, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-23 01:15:45 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(110): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 110, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-23 01:52:15 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(110): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 110, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-23 01:52:58 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(110): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 110, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-23 03:16:53 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(110): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 110, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-23 03:22:20 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(110): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 110, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-23 05:22:15 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(110): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 110, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-23 05:25:34 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(110): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 110, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-23 05:28:07 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(110): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 110, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-23 05:35:33 --> Undefined variable: session_data
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(492): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 492, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->update_source_id()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-23 05:35:33 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-23 05:37:44 --> Undefined variable: session_data
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(493): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 493, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->update_source_id()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-23 05:37:44 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-23 05:38:55 --> Undefined variable: session_data
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(478): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 478, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->update_source_id()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-23 05:38:55 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-23 05:45:22 --> Undefined variable: session_data
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(478): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 478, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->update_source_id()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-23 05:45:22 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-23 05:47:01 --> Undefined variable: session_data
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(478): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 478, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->update_source_id()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-23 05:47:01 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-23 05:47:43 --> Undefined variable: session_data
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(478): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 478, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->update_source_id()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-23 05:47:43 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-23 05:48:49 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home4/projectm...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-23 05:49:07 --> Undefined variable: session_data
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(478): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 478, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->update_source_id()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-23 05:49:07 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-23 05:51:44 --> Undefined variable: session_data
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(479): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 479, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->update_source_id()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-23 05:51:44 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-23 05:52:13 --> Undefined variable: session_data
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(479): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 479, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->update_source_id()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-23 05:52:13 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-23 05:52:37 --> Undefined variable: session_data
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(479): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 479, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->update_source_id()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-23 05:52:37 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-23 06:03:57 --> Undefined variable: session_data
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(481): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 481, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->update_source_id()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-23 06:03:57 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-23 06:04:25 --> Undefined variable: session_data
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(481): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 481, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->update_source_id()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-23 06:04:25 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-23 06:04:27 --> Undefined variable: session_data
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(481): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 481, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->update_source_id()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-23 06:04:27 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-23 06:06:24 --> Undefined variable: session_data
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(481): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 481, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->update_source_id()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-23 06:06:24 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-23 22:56:47 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(168): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 168, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

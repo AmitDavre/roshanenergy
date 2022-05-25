@@ -1,0 +1,1275 @@
+CRITICAL - 2022-02-14 00:04:42 --> Undefined variable: select_months
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(68): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 68, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->invoices()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 00:06:27 --> Undefined index: total_amount_due
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(74): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home4/projectm...', 74, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->invoices()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-02-14 00:18:35 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND `statement_start_date` LIKE '%%' AND `month_name_numeric` =' at line 1
+CRITICAL - 2022-02-14 00:18:35 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND `statement_start_date` LIKE '%%' AND `month_name_numeric` =' at line 1
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Database/MySQLi/Connection.php(292): mysqli->query('SELECT * FROM `...', 0)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM `...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM `...')
+#3 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(72): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->invoices()
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-14 00:18:42 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND `statement_start_date` LIKE '%%' AND `month_name_numeric` =' at line 1
+CRITICAL - 2022-02-14 00:18:42 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND `statement_start_date` LIKE '%%' AND `month_name_numeric` =' at line 1
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Database/MySQLi/Connection.php(292): mysqli->query('SELECT * FROM `...', 0)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM `...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM `...')
+#3 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(72): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->invoices()
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-14 00:18:45 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND `statement_start_date` LIKE '%%' AND `month_name_numeric` =' at line 1
+CRITICAL - 2022-02-14 00:18:45 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND `statement_start_date` LIKE '%%' AND `month_name_numeric` =' at line 1
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Database/MySQLi/Connection.php(292): mysqli->query('SELECT * FROM `...', 0)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM `...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM `...')
+#3 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(72): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->invoices()
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-14 00:21:35 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND `statement_start_date` LIKE '%%' AND `month_name_numeric` = ''' at line 1
+CRITICAL - 2022-02-14 00:21:35 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND `statement_start_date` LIKE '%%' AND `month_name_numeric` = ''' at line 1
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Database/MySQLi/Connection.php(292): mysqli->query('SELECT * FROM `...', 0)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM `...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM `...')
+#3 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(72): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->invoices()
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-02-14 00:22:20 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND `statement_start_date` LIKE '%%' AND `month_name_numeric` = ''' at line 1
+CRITICAL - 2022-02-14 00:22:20 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND `statement_start_date` LIKE '%%' AND `month_name_numeric` = ''' at line 1
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Database/MySQLi/Connection.php(292): mysqli->query('SELECT * FROM `...', 0)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM `...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM `...')
+#3 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(72): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->invoices()
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-14 00:26:04 --> syntax error, unexpected '%'
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home4/projectm...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-14 00:27:14 --> Object of class App\Controllers\Payments could not be converted to string
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(68): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', '/home4/projectm...', 68, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->invoices()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 00:44:25 --> syntax error, unexpected '}', expecting end of file
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home4/projectm...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-14 00:56:55 --> syntax error, unexpected ','
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home4/projectm...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-14 00:59:23 --> Array to string conversion
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(84): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', '/home4/projectm...', 84, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 01:11:48 --> Undefined index: total_amount_due
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(85): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home4/projectm...', 85, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 01:15:13 --> Undefined index: total_amount_due
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(85): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home4/projectm...', 85, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 01:15:38 --> syntax error, unexpected ','
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home4/projectm...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-14 01:15:54 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home4/projectm...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-14 01:16:30 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home4/projectm...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-14 01:17:15 --> Undefined index: total_amount_due
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(85): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home4/projectm...', 85, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 01:17:55 --> Undefined index: total_amount_due
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(85): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home4/projectm...', 85, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 01:25:20 --> syntax error, unexpected ')'
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home4/projectm...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-14 01:25:43 --> syntax error, unexpected ')'
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home4/projectm...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-14 01:25:45 --> syntax error, unexpected ')'
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home4/projectm...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-14 01:25:46 --> syntax error, unexpected ')'
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home4/projectm...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-14 01:25:54 --> syntax error, unexpected ')'
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home4/projectm...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-14 01:25:56 --> syntax error, unexpected ')'
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home4/projectm...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-14 01:25:58 --> syntax error, unexpected ')'
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home4/projectm...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-14 01:56:49 --> Undefined index: select_month
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(103): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home4/projectm...', 103, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 01:59:13 --> Undefined index: select_month
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(87): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home4/projectm...', 87, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 01:59:22 --> Undefined index: select_month
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(87): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home4/projectm...', 87, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 03:13:24 --> syntax error, unexpected ';', expecting ']'
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home4/projectm...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-14 03:23:16 --> Undefined index: bill_number
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(139): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home4/projectm...', 139, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 03:23:44 --> Undefined index: bill_number
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(139): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home4/projectm...', 139, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 03:23:51 --> Undefined index: bill_number
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(139): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home4/projectm...', 139, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 03:24:14 --> Undefined index: bill_number
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(139): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home4/projectm...', 139, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 03:24:18 --> Undefined index: bill_number
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(139): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home4/projectm...', 139, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 03:25:50 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/gene...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/gene...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 03:29:42 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/gene...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/gene...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 03:36:38 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, int returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(10001, 'update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, 10001)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(142): CodeIgniter\Model->update('5', 10001)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 03:37:09 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, int returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(10001, 'update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, 10001)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(142): CodeIgniter\Model->update('5', 10001)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 03:37:12 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, int returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(10001, 'update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, 10001)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(142): CodeIgniter\Model->update('5', 10001)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 03:37:23 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, int returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(10001, 'update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, 10001)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(142): CodeIgniter\Model->update('5', 10001)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 03:38:11 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, int returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(10001, 'update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, 10001)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(142): CodeIgniter\Model->update('5', 10001)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 03:38:28 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, int returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(10001, 'update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, 10001)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(142): CodeIgniter\Model->update('5', 10001)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 03:38:33 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, int returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(10001, 'update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, 10001)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(142): CodeIgniter\Model->update('5', 10001)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 03:38:58 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, int returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(10001, 'update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, 10001)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(142): CodeIgniter\Model->update('5', 10001)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 03:39:02 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, int returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(10001, 'update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, 10001)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(142): CodeIgniter\Model->update('5', 10001)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 03:39:25 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, int returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(10001, 'update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, 10001)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(142): CodeIgniter\Model->update('5', 10001)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 03:39:29 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, int returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(10001, 'update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, 10001)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(142): CodeIgniter\Model->update('5', 10001)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 03:39:36 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, int returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(10001, 'update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, 10001)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(142): CodeIgniter\Model->update('1', 10001)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 03:40:02 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, int returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(10001, 'update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, 10001)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(142): CodeIgniter\Model->update('1', 10001)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 03:40:05 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, int returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(10001, 'update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, 10001)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(142): CodeIgniter\Model->update('1', 10001)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 03:40:29 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, int returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(10001, 'update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, 10001)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(142): CodeIgniter\Model->update('1', 10001)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 03:43:38 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, int returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(10001, 'update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, 10001)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(142): CodeIgniter\Model->update('1', 10001)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 03:44:01 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, string returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray('10000', 'update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, '10000')
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(142): CodeIgniter\Model->update('1', '10000')
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 03:44:04 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, string returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray('10000', 'update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, '10000')
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(142): CodeIgniter\Model->update('1', '10000')
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 03:44:27 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, int returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(10001, 'update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, 10001)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(142): CodeIgniter\Model->update('1', 10001)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 03:44:56 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, int returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(10001, 'update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, 10001)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(142): CodeIgniter\Model->update('1', 10001)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 03:45:00 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, int returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(10001, 'update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, 10001)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(142): CodeIgniter\Model->update('1', 10001)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 03:45:21 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, int returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(10001, 'update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, 10001)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(142): CodeIgniter\Model->update('1', 10001)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 03:48:50 --> There is no data to update.
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(NULL, Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(148): CodeIgniter\Model->update()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 03:51:31 --> There is no data to update.
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(NULL, Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(145): CodeIgniter\Model->update()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 03:58:38 --> Undefined variable: bill_number
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(140): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 140, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 03:59:18 --> There is no data to update.
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(NULL, Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(144): CodeIgniter\Model->update()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 03:59:50 --> There is no data to update.
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(NULL, Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(144): CodeIgniter\Model->update()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 04:03:28 --> There is no data to update.
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(NULL, Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(144): CodeIgniter\Model->update()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 04:04:09 --> There is no data to update.
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(NULL, Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(144): CodeIgniter\Model->update()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 04:04:13 --> There is no data to update.
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(NULL, Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(144): CodeIgniter\Model->update()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 04:04:29 --> There is no data to update.
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(NULL, Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(144): CodeIgniter\Model->update()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 04:04:50 --> There is no data to update.
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(NULL, Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(144): CodeIgniter\Model->update()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 04:04:54 --> There is no data to update.
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(NULL, Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(144): CodeIgniter\Model->update()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 04:05:02 --> There is no data to update.
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(NULL, Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(144): CodeIgniter\Model->update()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 04:09:25 --> There is no data to insert.
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(620): CodeIgniter\BaseModel->insert(NULL, true)
+#3 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(141): CodeIgniter\Model->insert()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-14 04:09:29 --> There is no data to insert.
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(620): CodeIgniter\BaseModel->insert(NULL, true)
+#3 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(141): CodeIgniter\Model->insert()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-14 04:10:00 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, int returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(10001, 'insert')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(620): CodeIgniter\BaseModel->insert(10001, true)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(141): CodeIgniter\Model->insert(10001)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 04:10:55 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, int returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(10001, 'insert')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(620): CodeIgniter\BaseModel->insert(10001, true)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(141): CodeIgniter\Model->insert(10001)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 04:10:58 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, int returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(10001, 'insert')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(620): CodeIgniter\BaseModel->insert(10001, true)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(141): CodeIgniter\Model->insert(10001)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 04:11:08 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, int returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(10001, 'insert')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(620): CodeIgniter\BaseModel->insert(10001, true)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(141): CodeIgniter\Model->insert(10001)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 04:11:20 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, string returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray('10000', 'insert')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(620): CodeIgniter\BaseModel->insert('10000', true)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(141): CodeIgniter\Model->insert('10000')
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 04:11:24 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, string returned
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray('10000', 'insert')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(620): CodeIgniter\BaseModel->insert('10000', true)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(141): CodeIgniter\Model->insert('10000')
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 04:14:21 --> syntax error, unexpected ';', expecting ']'
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home4/projectm...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-14 04:18:38 --> Object of class App\Models\SettingsModel could not be converted to string
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(147): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', '/home4/projectm...', 147, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 04:19:39 --> There is no data to update.
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(NULL, Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(148): CodeIgniter\Model->update()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 04:20:28 --> There is no data to update.
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(NULL, Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(148): CodeIgniter\Model->update()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 04:20:36 --> There is no data to update.
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(NULL, Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(148): CodeIgniter\Model->update()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 04:20:46 --> There is no data to update.
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(NULL, Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(148): CodeIgniter\Model->update()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 04:26:24 --> syntax error, unexpected ','
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/gene...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/gene...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 04:26:39 --> syntax error, unexpected ','
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/gene...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/gene...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 04:26:52 --> Unsupported operand types
+#0 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-14 04:29:05 --> syntax error, unexpected '=', expecting ']'
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/gene...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/gene...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 04:29:18 --> Undefined variable: bill_number_data
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(142): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 142, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 04:29:51 --> Unsupported operand types
+#0 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-14 04:38:51 --> syntax error, unexpected '$content' (T_VARIABLE)
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/gene...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/gene...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 05:03:36 --> Undefined variable: test
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1024): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 1024, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 05:03:42 --> Undefined variable: test
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1024): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 1024, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 05:03:51 --> Undefined variable: test
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1024): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 1024, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 05:06:02 --> Undefined variable: test
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1025): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 1025, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 05:10:10 --> Undefined variable: test
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1023): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 1023, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 05:10:41 --> syntax error, unexpected ''</td>' (T_CONSTANT_ENCAPSED_STRING)
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/gene...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/gene...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 05:43:35 --> Undefined offset: 1
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(148): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 148, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home4/projectmanagment/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#6 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Dashboard.php(377): view('template_with_h...', Array)
+#9 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'admin-tools', 'admin-forms', 'custom-css', 'datepicker.css')
+#10 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-02-14 05:43:35 --> Undefined offset: 1
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(148): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 148, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home4/projectmanagment/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#6 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Dashboard.php(377): view('template_with_h...', Array)
+#9 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'img', 'logos', 'logo.jpeg')
+#10 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-02-14 06:02:08 --> Undefined index: date_billed
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(77): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home4/projectm...', 77, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 06:05:31 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(89): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 89, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 06:14:20 --> Undefined index: get_date_billed
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(77): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home4/projectm...', 77, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 06:14:25 --> Undefined index: get_date_billed
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(77): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home4/projectm...', 77, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 06:14:34 --> Undefined index: get_date_billed
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(77): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home4/projectm...', 77, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 06:28:34 --> Undefined variable: data
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Views/Payments/invoices.php(133): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 133, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Payments/invoic...', Array, true)
+#4 /home4/projectmanagment/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Payments/invoic...')
+#5 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#6 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(58): view('template_with_h...', Array)
+#9 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->invoices()
+#10 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#11 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-02-14 06:51:46 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 06:53:56 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 06:54:21 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 06:54:23 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 06:54:24 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 06:54:39 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 06:55:24 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 06:55:28 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 06:56:33 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 07:04:14 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 07:04:16 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 07:11:33 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 07:11:37 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 22:14:16 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 22:14:36 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 22:19:46 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 22:49:17 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 22:49:20 --> Undefined variable: combine_payment_data_insert
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(136): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 136, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 22:49:28 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 22:49:31 --> Undefined variable: combine_payment_data_insert
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(136): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 136, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 22:50:19 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 22:50:21 --> Undefined variable: combine_payment_data_insert
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(135): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 135, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 22:55:39 --> syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Payments/invoic...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Payments/invoic...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 22:56:17 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 22:57:27 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 22:58:10 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 22:58:43 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 23:00:30 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 23:01:13 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 23:01:32 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 23:02:31 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 23:14:15 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 23:19:33 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 23:22:30 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 23:22:33 --> There is no data to insert.
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(118): CodeIgniter\Model->insert(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 23:22:35 --> There is no data to insert.
+#0 /home4/projectmanagment/public_html/roshan_energy/system/BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(118): CodeIgniter\Model->insert(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-14 23:23:42 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 23:27:27 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 23:33:14 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 23:34:45 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 23:34:47 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 23:35:12 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 23:39:41 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 23:39:44 --> Undefined variable: payment_model_data
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(129): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 129, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 23:40:10 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 23:41:17 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 23:42:03 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 23:50:02 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 23:55:05 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 23:59:41 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 86, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

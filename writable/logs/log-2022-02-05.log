@@ -1,0 +1,599 @@
+CRITICAL - 2022-02-05 00:07:30 --> Undefined index: last_name
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1104): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home4/projectm...', 1104, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 00:10:52 --> Undefined index: resident_name
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1148): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home4/projectm...', 1148, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 00:20:30 --> syntax error, unexpected '.', expecting ')'
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/util...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/util...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 00:21:10 --> syntax error, unexpected '','' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/util...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/util...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 00:26:28 --> Undefined index: last_name
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1153): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home4/projectm...', 1153, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 00:27:47 --> Undefined index: last_name
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1154): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home4/projectm...', 1154, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 00:32:44 --> syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/util...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/util...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 00:56:58 --> Undefined offset: 1
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1203): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 1203, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 01:13:07 --> syntax error, unexpected ''statement_end_date'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home4/projectm...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-05 01:13:29 --> Undefined index: statement_start_date
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1142): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home4/projectm...', 1142, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 01:16:26 --> Undefined variable: value
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1063): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 1063, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 01:17:34 --> Undefined index: statement_start_date
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1151): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home4/projectm...', 1151, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 01:20:25 --> Illegal string offset 'statement_start_date'
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1146): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', '/home4/projectm...', 1146, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 01:26:56 --> syntax error, unexpected '$combinedArrayValue2' (T_VARIABLE), expecting ')'
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home4/projectm...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-05 01:39:28 --> Undefined offset: 1
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(140): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 140, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home4/projectmanagment/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#6 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Dashboard.php(375): view('template_with_h...', Array)
+#9 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'admin-tools', 'admin-forms', 'custom-css', 'datepicker.css')
+#10 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-02-05 01:39:29 --> Undefined offset: 1
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(140): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 140, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home4/projectmanagment/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#6 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Dashboard.php(375): view('template_with_h...', Array)
+#9 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'admin-tools', 'admin-forms', 'custom-css', 'datepicker.css')
+#10 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-02-05 01:39:30 --> Undefined offset: 1
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(140): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 140, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home4/projectmanagment/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#6 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Dashboard.php(375): view('template_with_h...', Array)
+#9 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'img', 'logos', 'logo.jpeg')
+#10 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-02-05 01:40:40 --> Undefined offset: 1
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(140): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 140, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home4/projectmanagment/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#6 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Dashboard.php(375): view('template_with_h...', Array)
+#9 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'admin-tools', 'admin-forms', 'custom-css', 'datepicker.css')
+#10 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-02-05 01:40:41 --> Undefined offset: 1
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(140): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 140, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home4/projectmanagment/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#6 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Dashboard.php(375): view('template_with_h...', Array)
+#9 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'img', 'logos', 'logo.jpeg')
+#10 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-02-05 01:40:57 --> Undefined offset: 1
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(140): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 140, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home4/projectmanagment/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#6 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Dashboard.php(375): view('template_with_h...', Array)
+#9 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'admin-tools', 'admin-forms', 'custom-css', 'datepicker.css')
+#10 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-02-05 01:40:58 --> Undefined offset: 1
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(140): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 140, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home4/projectmanagment/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#6 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Dashboard.php(375): view('template_with_h...', Array)
+#9 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'img', 'logos', 'logo.jpeg')
+#10 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-02-05 03:12:46 --> syntax error, unexpected ','
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/util...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/util...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 03:18:26 --> Undefined variable: timestamp
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1204): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 1204, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 03:30:34 --> A non well formed numeric value encountered
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'A non well form...', '/home4/projectm...', 1200, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1200): date('Y-m-01', '1 2022')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-05 03:30:46 --> A non well formed numeric value encountered
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'A non well form...', '/home4/projectm...', 1200, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1200): date('Y-m-01', '1 2022')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-05 03:45:08 --> syntax error, unexpected '.'
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/util...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/util...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 03:45:22 --> syntax error, unexpected '.'
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/util...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/util...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 03:45:34 --> syntax error, unexpected '.'
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/util...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/util...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 03:45:55 --> syntax error, unexpected ''-'' (T_CONSTANT_ENCAPSED_STRING)
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/util...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/util...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 03:46:07 --> syntax error, unexpected ''01'' (T_CONSTANT_ENCAPSED_STRING)
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/util...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/util...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 03:46:41 --> syntax error, unexpected ''01'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/util...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/util...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 03:47:01 --> syntax error, unexpected ''d'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/util...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/util...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 03:58:17 --> mktime() expects parameter 4 to be int, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mktime() expect...', '/home4/projectm...', 976, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(976): mktime(0, 0, 0, 'select', 10)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-05 03:58:52 --> mktime() expects parameter 4 to be int, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mktime() expect...', '/home4/projectm...', 976, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(976): mktime(0, 0, 0, 'select', 10)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-05 03:59:06 --> mktime() expects parameter 4 to be int, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mktime() expect...', '/home4/projectm...', 976, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(976): mktime(0, 0, 0, 'select', 10)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-05 03:59:12 --> mktime() expects parameter 4 to be int, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mktime() expect...', '/home4/projectm...', 976, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(976): mktime(0, 0, 0, 'select', 10)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-05 03:59:28 --> mktime() expects parameter 4 to be int, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mktime() expect...', '/home4/projectm...', 976, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(976): mktime(0, 0, 0, 'select', 10)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-05 04:05:20 --> Undefined variable: curMonth
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1199): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 1199, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 04:08:32 --> date() expects at most 2 parameters, 3 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'date() expects ...', '/home4/projectm...', 1200, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1200): date('Y-m-01', '1', '2022')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-05 04:12:27 --> syntax error, unexpected ','
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/util...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/util...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 04:12:59 --> syntax error, unexpected ''-'' (T_CONSTANT_ENCAPSED_STRING)
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/util...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/util...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 04:13:11 --> syntax error, unexpected '' '' (T_CONSTANT_ENCAPSED_STRING)
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/util...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/util...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 04:14:10 --> syntax error, unexpected '$spreadsheet' (T_VARIABLE)
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/util...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/util...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 04:17:08 --> Undefined variable: select_year
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1203): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 1203, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 04:44:07 --> Undefined offset: 1
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(140): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 140, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home4/projectmanagment/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#6 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Dashboard.php(375): view('template_with_h...', Array)
+#9 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'admin-tools', 'admin-forms', 'custom-css', 'datepicker.css')
+#10 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-02-05 04:44:08 --> Undefined offset: 1
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(140): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 140, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home4/projectmanagment/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#6 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Dashboard.php(375): view('template_with_h...', Array)
+#9 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'img', 'logos', 'logo.jpeg')
+#10 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-02-05 04:45:11 --> Undefined offset: 1
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(140): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 140, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home4/projectmanagment/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#6 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Dashboard.php(375): view('template_with_h...', Array)
+#9 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'admin-tools', 'admin-forms', 'custom-css', 'datepicker.css')
+#10 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-02-05 04:45:11 --> Undefined offset: 1
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(140): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 140, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home4/projectmanagment/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#6 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Dashboard.php(375): view('template_with_h...', Array)
+#9 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'img', 'logos', 'logo.jpeg')
+#10 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-02-05 04:45:40 --> Undefined offset: 1
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(140): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 140, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home4/projectmanagment/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#6 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Dashboard.php(375): view('template_with_h...', Array)
+#9 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'admin-tools', 'admin-forms', 'custom-css', 'datepicker.css')
+#10 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-02-05 04:45:41 --> Undefined offset: 1
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(140): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 140, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home4/projectmanagment/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#6 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Dashboard.php(375): view('template_with_h...', Array)
+#9 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'img', 'logos', 'logo.jpeg')
+#10 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-02-05 04:52:30 --> syntax error, unexpected ''d,-Y'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/util...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/util...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 05:03:59 --> Undefined offset: 1
+#0 /home4/projectmanagment/public_html/roshan_energy/app/ThirdParty/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Cell/Coordinate.php(297): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 297, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/app/ThirdParty/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Worksheet.php(1385): PhpOffice\PhpSpreadsheet\Cell\Coordinate::columnIndexFromString('D11')
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1232): PhpOffice\PhpSpreadsheet\Worksheet\Worksheet->getColumnDimension('D11')
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-05 05:04:28 --> Undefined offset: 1
+#0 /home4/projectmanagment/public_html/roshan_energy/app/ThirdParty/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Cell/Coordinate.php(297): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 297, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/app/ThirdParty/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Worksheet.php(1385): PhpOffice\PhpSpreadsheet\Cell\Coordinate::columnIndexFromString('D11')
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1232): PhpOffice\PhpSpreadsheet\Worksheet\Worksheet->getColumnDimension('D11')
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-05 05:05:11 --> Undefined offset: 1
+#0 /home4/projectmanagment/public_html/roshan_energy/app/ThirdParty/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Cell/Coordinate.php(297): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 297, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/app/ThirdParty/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Worksheet.php(1385): PhpOffice\PhpSpreadsheet\Cell\Coordinate::columnIndexFromString('D11')
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1232): PhpOffice\PhpSpreadsheet\Worksheet\Worksheet->getColumnDimension('D11')
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-05 05:17:34 --> Undefined variable: activeSheet
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1291): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 1291, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 05:18:59 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/util...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/util...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 05:27:37 --> Class 'App\Controllers\Border' not found
+#0 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-05 05:27:54 --> Class 'App\Controllers\Border' not found
+#0 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-05 21:53:14 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1451): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 1451, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->delete_utility_statement()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 21:54:02 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1451): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 1451, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->delete_utility_statement()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 21:54:10 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1451): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 1451, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->delete_utility_statement()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 21:55:05 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1451): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 1451, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->delete_utility_statement()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 21:55:08 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1451): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 1451, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->delete_utility_statement()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 21:55:11 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1451): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 1451, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->delete_utility_statement()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 21:55:13 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1451): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 1451, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->delete_utility_statement()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 21:55:19 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1451): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 1451, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->delete_utility_statement()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 21:56:06 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(1451): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 1451, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->delete_utility_statement()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-05 21:56:16 --> mktime() expects parameter 4 to be int, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mktime() expect...', '/home4/projectm...', 976, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php(976): mktime(0, 0, 0, 'select', 10)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

@@ -1,0 +1,12 @@
+[24-Feb-2022 10:50:50 UTC] PHP Fatal error:  Uncaught Error: Class 'SquareConnect\Configuration' not found in /home4/projectmanagment/public_html/roshanenergytest/api.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/projectmanagment/public_html/roshanenergytest/api.php on line 6
+[24-Feb-2022 10:51:04 UTC] PHP Fatal error:  Uncaught Error: Class 'SquareConnect\Configuration' not found in /home4/projectmanagment/public_html/roshanenergytest/api.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/projectmanagment/public_html/roshanenergytest/api.php on line 6
+[24-Feb-2022 10:51:15 UTC] PHP Fatal error:  Uncaught Error: Class 'SquareConnect\Configuration' not found in /home4/projectmanagment/public_html/roshanenergytest/api.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/projectmanagment/public_html/roshanenergytest/api.php on line 6

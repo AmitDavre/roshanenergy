@@ -1,0 +1,791 @@
+CRITICAL - 2021-12-28 00:05:11 --> syntax error, unexpected end of file
+#0 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#2 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/template.php(3): view('template_with_h...')
+#3 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#4 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#6 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(51): view('template_with_h...', Array)
+#7 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->create_customer()
+#8 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-12-28 00:20:41 --> syntax error, unexpected '?>'
+#0 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#2 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/template.php(3): view('template_with_h...')
+#3 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#4 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#6 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(51): view('template_with_h...', Array)
+#7 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->create_customer()
+#8 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-12-28 00:21:12 --> syntax error, unexpected '?>'
+#0 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#2 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/template.php(3): view('template_with_h...')
+#3 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#4 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#6 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(51): view('template_with_h...', Array)
+#7 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->create_customer()
+#8 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-12-28 00:22:32 --> syntax error, unexpected '?>'
+#0 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#2 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/template.php(3): view('template_with_h...')
+#3 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#4 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#6 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(51): view('template_with_h...', Array)
+#7 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->create_customer()
+#8 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-12-28 00:22:34 --> syntax error, unexpected '?>'
+#0 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#2 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/template.php(3): view('template_with_h...')
+#3 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#4 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#6 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(51): view('template_with_h...', Array)
+#7 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->create_customer()
+#8 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-12-28 00:22:46 --> syntax error, unexpected '?>'
+#0 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#2 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/template.php(3): view('template_with_h...')
+#3 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#4 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#6 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(51): view('template_with_h...', Array)
+#7 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->create_customer()
+#8 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-12-28 00:23:31 --> syntax error, unexpected '?>'
+#0 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#2 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/template.php(3): view('template_with_h...')
+#3 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#4 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#6 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(51): view('template_with_h...', Array)
+#7 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->create_customer()
+#8 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-12-28 00:32:18 --> syntax error, unexpected ';', expecting ')'
+#0 /home1/wartiz/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home1/wartiz/p...')
+#1 /home1/wartiz/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-28 00:38:17 --> Undefined variable: id
+#0 /home1/wartiz/public_html/roshan_energy/app/Models/UserModel.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 31, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Authentication.php(52): App\Models\UserModel->getUsers()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Authentication->login_form()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-28 00:51:59 --> Undefined offset: 0
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Authentication.php(53): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home1/wartiz/p...', 53, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Authentication->login_form()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-28 00:55:08 --> Undefined variable: sessionfirst_name
+#0 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/header.php(90): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 90, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#2 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#4 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/template.php(3): view('template_with_h...')
+#5 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#6 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(51): view('template_with_h...', Array)
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->create_customer()
+#10 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2021-12-28 00:55:41 --> Undefined variable: sessionfirst_name
+#0 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/header.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 3, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#2 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#4 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/template.php(3): view('template_with_h...')
+#5 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#6 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(51): view('template_with_h...', Array)
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->create_customer()
+#10 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2021-12-28 00:55:55 --> Undefined variable: data
+#0 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/header.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 3, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#2 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#4 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/template.php(3): view('template_with_h...')
+#5 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#6 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(51): view('template_with_h...', Array)
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->create_customer()
+#10 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2021-12-28 01:00:21 --> Undefined variable: sessionfirst_name
+#0 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 4, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#2 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#4 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/template.php(3): view('template_with_h...')
+#5 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#6 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(51): view('template_with_h...', Array)
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->create_customer()
+#10 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2021-12-28 01:00:29 --> Undefined variable: sessionfirst_name
+#0 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 4, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#2 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#4 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/template.php(3): view('template_with_h...')
+#5 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#6 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(51): view('template_with_h...', Array)
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->create_customer()
+#10 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2021-12-28 01:01:49 --> Undefined variable: sessionfirst_name
+#0 /home1/wartiz/public_html/roshan_energy/app/Views/template/header.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 51, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#2 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template/header...', Array, true)
+#4 /home1/wartiz/public_html/roshan_energy/app/Views/template/template.php(3): view('template/header...')
+#5 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#6 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template/templa...', Array, true)
+#8 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(30): view('template/templa...', Array)
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->account_control()
+#10 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2021-12-28 01:02:12 --> Undefined variable: sessionfirst_name
+#0 /home1/wartiz/public_html/roshan_energy/app/Views/template/header.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 51, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#2 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template/header...', Array, true)
+#4 /home1/wartiz/public_html/roshan_energy/app/Views/template/template.php(3): view('template/header...')
+#5 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#6 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template/templa...', Array, true)
+#8 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(30): view('template/templa...', Array)
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->account_control()
+#10 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2021-12-28 01:02:14 --> Undefined variable: sessionfirst_name
+#0 /home1/wartiz/public_html/roshan_energy/app/Views/template/header.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 51, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#2 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template/header...', Array, true)
+#4 /home1/wartiz/public_html/roshan_energy/app/Views/template/template.php(3): view('template/header...')
+#5 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#6 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template/templa...', Array, true)
+#8 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(30): view('template/templa...', Array)
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->account_control()
+#10 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2021-12-28 03:26:33 --> syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home1/wartiz/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home1/wartiz/p...')
+#1 /home1/wartiz/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-28 03:57:28 --> syntax error, unexpected '{', expecting '('
+#0 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/accou...', Array, true)
+#2 /home1/wartiz/public_html/roshan_energy/app/Views/template/template.php(5): view('Dashboard/accou...')
+#3 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#4 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template/templa...', Array, true)
+#6 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(29): view('template/templa...', Array)
+#7 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->account_control()
+#8 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-12-28 03:57:32 --> syntax error, unexpected '{', expecting '('
+#0 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/accou...', Array, true)
+#2 /home1/wartiz/public_html/roshan_energy/app/Views/template/template.php(5): view('Dashboard/accou...')
+#3 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#4 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template/templa...', Array, true)
+#6 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(29): view('template/templa...', Array)
+#7 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->account_control()
+#8 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-12-28 03:58:29 --> syntax error, unexpected '}'
+#0 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/accou...', Array, true)
+#2 /home1/wartiz/public_html/roshan_energy/app/Views/template/template.php(5): view('Dashboard/accou...')
+#3 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#4 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template/templa...', Array, true)
+#6 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(29): view('template/templa...', Array)
+#7 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->account_control()
+#8 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-12-28 03:58:32 --> syntax error, unexpected '}'
+#0 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/accou...', Array, true)
+#2 /home1/wartiz/public_html/roshan_energy/app/Views/template/template.php(5): view('Dashboard/accou...')
+#3 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#4 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template/templa...', Array, true)
+#6 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(29): view('template/templa...', Array)
+#7 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->account_control()
+#8 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-12-28 04:34:10 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+#0 /home1/wartiz/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home1/wartiz/p...')
+#1 /home1/wartiz/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-28 04:34:25 --> syntax error, unexpected '=', expecting ')'
+#0 /home1/wartiz/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home1/wartiz/p...')
+#1 /home1/wartiz/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-28 04:34:35 --> Undefined property: App\Controllers\Dashboard::$db
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(436): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/home1/wartiz/p...', 436, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->manage_biller()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-28 04:46:16 --> Undefined offset: 1
+#0 /home1/wartiz/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(125): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home1/wartiz/p...', 125, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#2 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#6 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(255): view('template_with_h...', Array)
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'img', 'favicon.ico')
+#10 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2021-12-28 04:47:03 --> Undefined offset: 1
+#0 /home1/wartiz/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(125): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home1/wartiz/p...', 125, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#2 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#6 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(255): view('template_with_h...', Array)
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'img', 'favicon.ico')
+#10 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2021-12-28 04:47:10 --> Undefined offset: 1
+#0 /home1/wartiz/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(125): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home1/wartiz/p...', 125, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#2 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#6 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(255): view('template_with_h...', Array)
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'img', 'favicon.ico')
+#10 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2021-12-28 05:42:34 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type"`, "Property Street `Address"`, "Unit `Number"`, "Unit `ID"`, "City", "Stat' at line 1
+CRITICAL - 2021-12-28 05:42:34 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type"`, "Property Street `Address"`, "Unit `Number"`, "Unit `ID"`, "City", "Stat' at line 1
+#0 /home1/wartiz/public_html/roshan_energy/system/Database/MySQLi/Connection.php(292): mysqli->query('SELECT "Account...', 0)
+#1 /home1/wartiz/public_html/roshan_energy/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT "Account...')
+#2 /home1/wartiz/public_html/roshan_energy/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT "Account...')
+#3 /home1/wartiz/public_html/roshan_energy/system/Database/BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT "Account...', Array, false)
+#4 /home1/wartiz/public_html/roshan_energy/system/Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 /home1/wartiz/public_html/roshan_energy/system/BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(919): CodeIgniter\BaseModel->findAll()
+#7 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#8 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2021-12-28 05:42:35 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type"`, "Property Street `Address"`, "Unit `Number"`, "Unit `ID"`, "City", "Stat' at line 1
+CRITICAL - 2021-12-28 05:42:35 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type"`, "Property Street `Address"`, "Unit `Number"`, "Unit `ID"`, "City", "Stat' at line 1
+#0 /home1/wartiz/public_html/roshan_energy/system/Database/MySQLi/Connection.php(292): mysqli->query('SELECT "Account...', 0)
+#1 /home1/wartiz/public_html/roshan_energy/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT "Account...')
+#2 /home1/wartiz/public_html/roshan_energy/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT "Account...')
+#3 /home1/wartiz/public_html/roshan_energy/system/Database/BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT "Account...', Array, false)
+#4 /home1/wartiz/public_html/roshan_energy/system/Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 /home1/wartiz/public_html/roshan_energy/system/BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(919): CodeIgniter\BaseModel->findAll()
+#7 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#8 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2021-12-28 05:42:40 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type"`, "Property Street `Address"`, "Unit `Number"`, "Unit `ID"`, "City", "Stat' at line 1
+CRITICAL - 2021-12-28 05:42:40 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type"`, "Property Street `Address"`, "Unit `Number"`, "Unit `ID"`, "City", "Stat' at line 1
+#0 /home1/wartiz/public_html/roshan_energy/system/Database/MySQLi/Connection.php(292): mysqli->query('SELECT "Account...', 0)
+#1 /home1/wartiz/public_html/roshan_energy/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT "Account...')
+#2 /home1/wartiz/public_html/roshan_energy/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT "Account...')
+#3 /home1/wartiz/public_html/roshan_energy/system/Database/BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT "Account...', Array, false)
+#4 /home1/wartiz/public_html/roshan_energy/system/Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 /home1/wartiz/public_html/roshan_energy/system/BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(919): CodeIgniter\BaseModel->findAll()
+#7 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#8 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2021-12-28 05:42:42 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type"`, "Property Street `Address"`, "Unit `Number"`, "Unit `ID"`, "City", "Stat' at line 1
+CRITICAL - 2021-12-28 05:42:42 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type"`, "Property Street `Address"`, "Unit `Number"`, "Unit `ID"`, "City", "Stat' at line 1
+#0 /home1/wartiz/public_html/roshan_energy/system/Database/MySQLi/Connection.php(292): mysqli->query('SELECT "Account...', 0)
+#1 /home1/wartiz/public_html/roshan_energy/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT "Account...')
+#2 /home1/wartiz/public_html/roshan_energy/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT "Account...')
+#3 /home1/wartiz/public_html/roshan_energy/system/Database/BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT "Account...', Array, false)
+#4 /home1/wartiz/public_html/roshan_energy/system/Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 /home1/wartiz/public_html/roshan_energy/system/BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(919): CodeIgniter\BaseModel->findAll()
+#7 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#8 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2021-12-28 05:43:11 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type"`, "Property Street `Address"`, "Unit `Number"`, "Unit `ID"`, "City", "Stat' at line 1
+CRITICAL - 2021-12-28 05:43:11 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type"`, "Property Street `Address"`, "Unit `Number"`, "Unit `ID"`, "City", "Stat' at line 1
+#0 /home1/wartiz/public_html/roshan_energy/system/Database/MySQLi/Connection.php(292): mysqli->query('SELECT "Account...', 0)
+#1 /home1/wartiz/public_html/roshan_energy/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT "Account...')
+#2 /home1/wartiz/public_html/roshan_energy/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT "Account...')
+#3 /home1/wartiz/public_html/roshan_energy/system/Database/BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT "Account...', Array, false)
+#4 /home1/wartiz/public_html/roshan_energy/system/Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#5 /home1/wartiz/public_html/roshan_energy/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#6 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(919): CodeIgniter\BaseModel->first()
+#7 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#8 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2021-12-28 05:43:12 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type"`, "Property Street `Address"`, "Unit `Number"`, "Unit `ID"`, "City", "Stat' at line 1
+CRITICAL - 2021-12-28 05:43:12 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type"`, "Property Street `Address"`, "Unit `Number"`, "Unit `ID"`, "City", "Stat' at line 1
+#0 /home1/wartiz/public_html/roshan_energy/system/Database/MySQLi/Connection.php(292): mysqli->query('SELECT "Account...', 0)
+#1 /home1/wartiz/public_html/roshan_energy/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT "Account...')
+#2 /home1/wartiz/public_html/roshan_energy/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT "Account...')
+#3 /home1/wartiz/public_html/roshan_energy/system/Database/BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT "Account...', Array, false)
+#4 /home1/wartiz/public_html/roshan_energy/system/Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#5 /home1/wartiz/public_html/roshan_energy/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#6 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(919): CodeIgniter\BaseModel->first()
+#7 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#8 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-12-28 05:43:31 --> fputcsv() expects parameter 2 to be array, null given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fputcsv() expec...', '/home1/wartiz/p...', 927, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(927): fputcsv(Resource id #128, NULL)
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-28 05:43:33 --> fputcsv() expects parameter 2 to be array, null given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fputcsv() expec...', '/home1/wartiz/p...', 927, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(927): fputcsv(Resource id #128, NULL)
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-28 05:43:38 --> fputcsv() expects parameter 2 to be array, null given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fputcsv() expec...', '/home1/wartiz/p...', 927, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(927): fputcsv(Resource id #128, NULL)
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-28 05:54:28 --> fputcsv() expects parameter 2 to be array, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fputcsv() expec...', '/home1/wartiz/p...', 927, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(927): fputcsv(Resource id #134, '4')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-28 05:54:29 --> fputcsv() expects parameter 2 to be array, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fputcsv() expec...', '/home1/wartiz/p...', 927, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(927): fputcsv(Resource id #134, '4')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-28 05:54:32 --> fputcsv() expects parameter 2 to be array, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fputcsv() expec...', '/home1/wartiz/p...', 927, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(927): fputcsv(Resource id #134, '4')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-28 05:54:33 --> fputcsv() expects parameter 2 to be array, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fputcsv() expec...', '/home1/wartiz/p...', 927, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(927): fputcsv(Resource id #134, '4')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-28 05:54:39 --> fputcsv() expects parameter 2 to be array, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fputcsv() expec...', '/home1/wartiz/p...', 927, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(927): fputcsv(Resource id #134, '4')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-28 06:47:02 --> Undefined variable: header
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(927): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 927, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-28 06:47:03 --> Undefined variable: header
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(927): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 927, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-28 06:47:09 --> Undefined variable: header
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(927): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 927, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-28 06:47:14 --> Undefined variable: header
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(927): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 927, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-28 06:47:16 --> Undefined variable: header
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(927): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 927, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-28 06:47:21 --> Undefined variable: header
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(927): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 927, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-28 06:47:52 --> Call to a member function findAll() on array
+#0 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-28 06:47:54 --> Call to a member function findAll() on array
+#0 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-28 06:47:57 --> Call to a member function findAll() on array
+#0 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-28 06:47:59 --> Call to a member function findAll() on array
+#0 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-28 06:48:04 --> Call to a member function findAll() on array
+#0 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-28 06:48:22 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', '/home1/wartiz/p...', 927, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(927): fputcsv(Resource id #134, Array)
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-28 06:48:26 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', '/home1/wartiz/p...', 927, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(927): fputcsv(Resource id #134, Array)
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-28 06:48:27 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', '/home1/wartiz/p...', 927, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(927): fputcsv(Resource id #134, Array)
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-28 06:52:53 --> Undefined variable: where
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(920): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 920, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-28 06:52:55 --> Undefined variable: where
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(920): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 920, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-28 06:55:09 --> Undefined variable: builder
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(921): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 921, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-28 06:55:10 --> Undefined variable: builder
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(921): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 921, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-28 06:55:35 --> fputcsv() expects parameter 2 to be array, null given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fputcsv() expec...', '/home1/wartiz/p...', 936, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(936): fputcsv(Resource id #128, NULL)
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-28 06:55:37 --> fputcsv() expects parameter 2 to be array, null given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fputcsv() expec...', '/home1/wartiz/p...', 936, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(936): fputcsv(Resource id #128, NULL)
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-28 07:07:23 --> Undefined variable: usersData
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(934): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 934, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-28 07:07:24 --> Undefined variable: usersData
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(934): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 934, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-28 07:07:27 --> Undefined variable: usersData
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(934): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 934, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-28 07:07:29 --> Undefined variable: usersData
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(934): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 934, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-28 22:51:37 --> Undefined property: App\Controllers\Dashboard::$db
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(923): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/home1/wartiz/p...', 923, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-28 22:51:39 --> Undefined property: App\Controllers\Dashboard::$db
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(923): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/home1/wartiz/p...', 923, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-28 22:52:12 --> fputcsv() expects parameter 2 to be array, null given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fputcsv() expec...', '/home1/wartiz/p...', 939, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(939): fputcsv(Resource id #128, NULL)
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-28 22:52:14 --> fputcsv() expects parameter 2 to be array, null given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fputcsv() expec...', '/home1/wartiz/p...', 939, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(939): fputcsv(Resource id #128, NULL)
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-28 22:57:20 --> Undefined variable: db
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(926): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 926, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-28 22:57:22 --> Undefined variable: db
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(926): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 926, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-28 22:57:26 --> Undefined variable: db
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(926): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 926, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-28 22:57:52 --> Undefined variable: db
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(926): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 926, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-28 22:57:53 --> Undefined variable: db
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(926): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 926, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-28 23:30:01 --> fputcsv() expects parameter 2 to be array, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fputcsv() expec...', '/home1/wartiz/p...', 942, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(942): fputcsv(Resource id #134, '1234567890')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-28 23:30:02 --> fputcsv() expects parameter 2 to be array, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fputcsv() expec...', '/home1/wartiz/p...', 942, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(942): fputcsv(Resource id #134, '1234567890')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-28 23:30:11 --> fputcsv() expects parameter 2 to be array, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fputcsv() expec...', '/home1/wartiz/p...', 942, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(942): fputcsv(Resource id #134, '1234567890')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-28 23:30:12 --> fputcsv() expects parameter 2 to be array, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fputcsv() expec...', '/home1/wartiz/p...', 942, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(942): fputcsv(Resource id #134, '1234567890')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-28 23:30:18 --> fputcsv() expects parameter 2 to be array, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fputcsv() expec...', '/home1/wartiz/p...', 942, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(942): fputcsv(Resource id #134, '1234567890')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->exportData()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

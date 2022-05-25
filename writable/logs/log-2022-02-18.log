@@ -1,0 +1,1245 @@
+CRITICAL - 2022-02-18 00:04:33 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 00:20:47 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 00:20:55 --> A non well formed numeric value encountered
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'A non well form...', '/home4/projectm...', 201, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(201): money_format('%i', '23,836.16')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-18 00:21:30 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 00:25:11 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 00:25:50 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 00:25:57 --> A non well formed numeric value encountered
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'A non well form...', '/home4/projectm...', 202, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(202): money_format('The price is %i', '2,063.35')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-18 01:06:10 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 01:07:09 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 01:08:03 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 01:11:05 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 01:11:13 --> A non well formed numeric value encountered
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'A non well form...', '/home4/projectm...', 202, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(202): number_format('2,063.35')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-18 01:14:32 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 01:14:36 --> Undefined variable: value
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(205): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 205, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 01:15:20 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 01:15:31 --> preg_replace() expects at least 3 parameters, 2 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace() ...', '/home4/projectm...', 200, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(200): preg_replace('/[^\\d.]/', '2,063.35')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-18 01:15:53 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 01:18:59 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 01:19:04 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(166): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 166, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 01:19:36 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 01:36:42 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 01:37:19 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 01:39:52 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 01:41:02 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 01:43:26 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 01:49:03 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 01:49:14 --> Cannot pass parameter 4 by reference
+#0 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-18 01:51:17 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 01:58:26 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:07:23 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:10:38 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:18:30 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home4/projectm...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-18 03:18:46 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home4/projectm...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-18 03:19:01 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:19:12 --> Undefined variable: squareUprespons
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(235): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 235, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:19:12 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-18 03:20:13 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:20:27 --> Undefined variable: squareUprespons
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(235): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 235, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:20:27 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-18 03:21:24 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:21:34 --> Cannot use object of type stdClass as array
+#0 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-18 03:22:46 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:22:54 --> Cannot use object of type stdClass as array
+#0 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-18 03:28:47 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:29:00 --> Undefined variable: request
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(233): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 233, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:29:00 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-18 03:29:51 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:29:59 --> Call to undefined method stdClass::getJSON()
+#0 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-18 03:30:43 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:30:54 --> Call to a member function getJSON() on string
+#0 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-18 03:32:50 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:34:38 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:34:47 --> Cannot use object of type stdClass as array
+#0 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-18 03:37:53 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:41:19 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:42:10 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:43:06 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:49:04 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:49:14 --> Undefined index: 1OkvbxVts9dOfeQKTIkY0YTl5p9YY
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(257): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home4/projectm...', 257, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:49:14 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-18 03:49:38 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:50:20 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:50:55 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:52:58 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:54:02 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:56:27 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:56:35 --> Undefined property: stdClass::$payment
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(237): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/home4/projectm...', 237, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:56:35 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-18 03:56:41 --> Undefined property: stdClass::$payment
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(237): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/home4/projectm...', 237, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:56:41 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-18 03:56:43 --> Undefined property: stdClass::$payment
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(237): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/home4/projectm...', 237, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 03:56:43 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-18 04:06:06 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 108, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:12:39 --> Undefined variable: combine_all_payment_data
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Views/Payments/payments.php(297): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 297, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Payments/paymen...', Array, true)
+#4 /home4/projectmanagment/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Payments/paymen...')
+#5 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#6 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(80): view('template_with_h...', Array)
+#9 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->payments()
+#10 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#11 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-02-18 04:25:47 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:25:49 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:25:50 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:25:51 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:25:51 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:25:51 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:25:55 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:25:55 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:25:55 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:25:56 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:25:56 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:25:56 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:25:56 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:25:56 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:25:57 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:25:57 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:25:57 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:25:58 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:26:01 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:29:17 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:31:36 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:31:37 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:51:03 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:52:01 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:54:33 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:55:55 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:55:57 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:55:58 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:56:01 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 04:58:46 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 05:01:08 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 05:01:13 --> Use of undefined constant exists - assumed 'exists' (this will throw an Error in a future version of PHP)
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(253): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', '/home4/projectm...', 253, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 05:01:13 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-18 05:01:17 --> Use of undefined constant exists - assumed 'exists' (this will throw an Error in a future version of PHP)
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(253): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', '/home4/projectm...', 253, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 05:01:17 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-18 05:01:22 --> Use of undefined constant exists - assumed 'exists' (this will throw an Error in a future version of PHP)
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(253): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', '/home4/projectm...', 253, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 05:01:22 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-18 05:01:25 --> Use of undefined constant exists - assumed 'exists' (this will throw an Error in a future version of PHP)
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(253): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', '/home4/projectm...', 253, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 05:01:25 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-18 05:01:40 --> Use of undefined constant exists - assumed 'exists' (this will throw an Error in a future version of PHP)
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(253): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', '/home4/projectm...', 253, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 05:01:40 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-18 05:02:23 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 05:02:46 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 05:03:22 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 05:03:25 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 05:04:45 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 05:05:59 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 05:06:42 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 05:06:45 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 05:12:50 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 05:13:31 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 05:13:34 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 05:13:58 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 05:15:16 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 05:16:45 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 05:17:41 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 05:57:27 --> Undefined offset: 1
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(160): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 160, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home4/projectmanagment/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#6 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Dashboard.php(377): view('template_with_h...', Array)
+#9 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'admin-tools', 'admin-forms', 'custom-css', 'datepicker.css')
+#10 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-02-18 06:14:26 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 06:14:59 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 06:19:52 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 06:19:55 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 06:19:57 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 06:20:49 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 06:38:06 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 06:41:43 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 06:41:45 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 06:41:46 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 06:41:50 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 06:42:09 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 06:44:32 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 06:44:41 --> Undefined property: stdClass::$payment
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(233): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/home4/projectm...', 233, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 06:44:41 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-18 06:44:45 --> Undefined property: stdClass::$payment
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(233): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/home4/projectm...', 233, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 06:44:45 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-18 06:45:41 --> syntax error, unexpected '$fetch_row' (T_VARIABLE), expecting ',' or ';'
+#0 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Payments/paymen...', Array, true)
+#2 /home4/projectmanagment/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Payments/paymen...')
+#3 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#4 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#6 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(81): view('template_with_h...', Array)
+#7 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->payments()
+#8 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#9 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-02-18 06:54:29 --> Undefined offset: 1
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(160): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 160, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home4/projectmanagment/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#6 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Dashboard.php(377): view('template_with_h...', Array)
+#9 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'admin-tools', 'admin-forms', 'custom-css', 'datepicker.css')
+#10 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-02-18 07:01:56 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 109, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->get_payment_details()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 07:02:09 --> Undefined property: stdClass::$payment
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(233): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/home4/projectm...', 233, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 07:02:09 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-18 07:08:29 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 07:08:31 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 07:08:32 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 07:18:40 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 07:18:41 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 07:18:42 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 07:18:42 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 07:18:43 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 07:18:43 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 07:18:43 --> Undefined offset: 0
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 167, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->insert_payment_data()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-18 07:23:26 --> syntax error, unexpected end of file
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home4/projectm...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

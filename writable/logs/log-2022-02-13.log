@@ -1,0 +1,44 @@
+CRITICAL - 2022-02-13 22:46:57 --> Undefined variable: select_customers
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(56): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 56, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->invoices()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-13 22:57:21 --> Undefined offset: 1
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(148): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 148, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home4/projectmanagment/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#6 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Dashboard.php(377): view('template_with_h...', Array)
+#9 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'admin-tools', 'admin-forms', 'custom-css', 'datepicker.css')
+#10 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-02-13 22:57:22 --> Undefined offset: 1
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(148): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home4/projectm...', 148, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#2 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home4/projectmanagment/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(214): include('/home4/projectm...')
+#6 /home4/projectmanagment/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home4/projectmanagment/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Dashboard.php(377): view('template_with_h...', Array)
+#9 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->edit_customer('assets', 'img', 'logos', 'logo.jpeg')
+#10 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-02-13 23:59:21 --> Undefined variable: select_years
+#0 /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Payments.php(61): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home4/projectm...', 61, Array)
+#1 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->invoices()
+#2 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#3 /home4/projectmanagment/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home4/projectmanagment/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

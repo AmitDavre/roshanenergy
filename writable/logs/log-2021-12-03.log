@@ -1,0 +1,548 @@
+CRITICAL - 2021-12-03 05:11:23 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-03 05:11:25 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-03 05:11:29 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-03 05:11:29 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-03 05:11:30 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-03 05:11:30 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-03 05:11:48 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-03 05:11:49 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-03 05:11:51 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-03 05:12:16 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-03 05:12:33 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-03 05:12:56 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-03 05:12:57 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-03 05:12:58 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-03 05:12:58 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-03 05:12:58 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-03 05:12:58 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-03 05:12:58 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-03 05:12:58 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-03 05:12:58 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-03 05:13:28 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-03 05:20:42 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-03 05:20:43 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-03 05:20:44 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-03 05:20:44 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-03 05:20:44 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-03 05:20:44 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-03 05:21:03 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-03 05:21:04 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-03 05:21:04 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-03 05:21:05 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-03 05:21:05 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-03 05:21:05 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-03 05:21:05 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-03 05:23:00 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-03 05:23:01 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-03 05:23:02 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-03 05:23:02 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-03 05:23:02 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-03 05:23:02 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-03 05:23:03 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-03 05:23:03 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-03 05:23:03 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-03 05:23:34 --> Undefined variable: username
+#0 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 20, Array)
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#3 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-03 05:23:51 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-03 05:25:11 --> Undefined variable: username
+#0 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 20, Array)
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#3 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-03 05:26:10 --> Undefined variable: username
+#0 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 20, Array)
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#3 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-03 05:26:10 --> Undefined variable: username
+#0 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 20, Array)
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#3 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-03 05:26:11 --> Undefined variable: username
+#0 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 20, Array)
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#3 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-03 05:26:11 --> Undefined variable: username
+#0 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 20, Array)
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#3 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-03 05:26:33 --> Undefined variable: username
+#0 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 20, Array)
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#3 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-03 05:26:56 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-03 05:28:47 --> Undefined variable: username
+#0 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 21, Array)
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#3 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-03 06:33:40 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\roshan_energy\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-03 06:33:57 --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-03 06:47:15 --> Undefined property: App\Controllers\Authentication::$requset
+#0 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 11, Array)
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#3 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-03 06:48:36 --> Undefined property: App\Controllers\Authentication::$requset
+#0 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 15, Array)
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#3 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-03 06:51:47 --> Undefined property: App\Controllers\Authentication::$requset
+#0 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 15, Array)
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#3 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-03 06:52:01 --> Undefined property: App\Controllers\Authentication::$requset
+#0 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#3 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-03 06:52:08 --> Undefined property: App\Controllers\Authentication::$requset
+#0 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#3 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-03 06:52:32 --> Undefined property: App\Controllers\Authentication::$requset
+#0 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#3 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-03 06:53:38 --> Undefined property: App\Controllers\Authentication::$requset
+#0 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#3 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-03 06:53:43 --> Undefined property: App\Controllers\Authentication::$requset
+#0 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#3 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-03 06:57:07 --> Undefined property: App\Controllers\Authentication::$requset
+#0 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#3 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-03 07:24:07 --> Undefined variable: request
+#0 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#3 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-03 07:30:53 --> Undefined variable: request
+#0 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#3 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-03 07:30:54 --> Undefined variable: request
+#0 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#3 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-03 07:31:12 --> Undefined variable: request
+#0 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->login()
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#3 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-03 22:47:11 --> Unable to determine what should be displayed. A default route has not been specified in the routing file.
+#0 C:\xampp\htdocs\roshan_energy\system\Router\Router.php(671): CodeIgniter\Router\Exceptions\RouterException::forMissingDefaultRoute()
+#1 C:\xampp\htdocs\roshan_energy\system\Router\Router.php(469): CodeIgniter\Router\Router->setDefaultController()
+#2 C:\xampp\htdocs\roshan_energy\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('/')
+#3 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('/')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-03 22:47:18 --> Unable to determine what should be displayed. A default route has not been specified in the routing file.
+#0 C:\xampp\htdocs\roshan_energy\system\Router\Router.php(671): CodeIgniter\Router\Exceptions\RouterException::forMissingDefaultRoute()
+#1 C:\xampp\htdocs\roshan_energy\system\Router\Router.php(469): CodeIgniter\Router\Router->setDefaultController()
+#2 C:\xampp\htdocs\roshan_energy\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('/')
+#3 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('/')
+#4 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

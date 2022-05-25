@@ -1,0 +1,439 @@
+CRITICAL - 2022-01-04 00:04:05 --> Undefined index: trids
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(19677): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 19677, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(18427): TCPDF->closeHTMLTagHandler(Array, 22, false, 13.96875)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(104): TCPDF->writeHTML('<table><tr><td>...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 00:04:39 --> Undefined index: trids
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(19677): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 19677, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(18427): TCPDF->closeHTMLTagHandler(Array, 22, false, 13.96875)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(105): TCPDF->writeHTML('<table><tr><td>...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 00:05:08 --> Undefined index: trids
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(19677): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 19677, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(18427): TCPDF->closeHTMLTagHandler(Array, 22, false, 13.96875)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(104): TCPDF->writeHTML('<table><tr><td>...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 00:05:24 --> Undefined index: trids
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(19677): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 19677, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(18427): TCPDF->closeHTMLTagHandler(Array, 19, false, 13.96875)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(104): TCPDF->writeHTML('<table><tr><td>...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 00:11:00 --> Undefined index: cols
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(16599): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 16599, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17343): TCPDF->getHtmlDomArray('<table><tr><td>...')
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(109): TCPDF->writeHTML('<table><tr><td>...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 00:11:33 --> Undefined index: cols
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(16599): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 16599, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17343): TCPDF->getHtmlDomArray('<table><tr><td>...')
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(109): TCPDF->writeHTML('<table><tr><td>...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 00:13:27 --> Undefined index: cols
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(16599): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 16599, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17343): TCPDF->getHtmlDomArray('<table><tr><td>...')
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(108): TCPDF->writeHTML('<table><tr><td>...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 00:13:50 --> Undefined index: cols
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(16599): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 16599, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17343): TCPDF->getHtmlDomArray('<table><tr><td>...')
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(108): TCPDF->writeHTML('<table><tr><td>...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 00:32:32 --> Undefined index: cols
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(16599): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 16599, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17343): TCPDF->getHtmlDomArray('<table><tr><td>...')
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(112): TCPDF->writeHTML('<table>\n       ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 00:32:37 --> Undefined index: cols
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(16599): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 16599, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17343): TCPDF->getHtmlDomArray('<table><tr><td>...')
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(112): TCPDF->writeHTML('<table>\n       ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 00:35:51 --> Undefined index: cols
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17071): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 17071, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17343): TCPDF->getHtmlDomArray('<table><tr><td>...')
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(120): TCPDF->writeHTML('<table>\n       ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 00:39:01 --> Undefined index: trids
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(19677): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 19677, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(18427): TCPDF->closeHTMLTagHandler(Array, 65, false, 67.703857533333)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(118): TCPDF->writeHTML('<table>\n       ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 00:43:20 --> Undefined index: cols
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17071): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 17071, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17343): TCPDF->getHtmlDomArray('<table><tr><td>...')
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(117): TCPDF->writeHTML('<table>\n       ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 00:43:25 --> Undefined index: cols
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17071): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 17071, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17343): TCPDF->getHtmlDomArray('<table><tr><td>...')
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(117): TCPDF->writeHTML('<table>\n       ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 00:43:48 --> Undefined index: cols
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17071): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 17071, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17343): TCPDF->getHtmlDomArray('<table><tr><td>...')
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(117): TCPDF->writeHTML('<table>\n       ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 00:44:06 --> Undefined index: cols
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17071): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 17071, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17343): TCPDF->getHtmlDomArray('<table><tr><td>...')
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(117): TCPDF->writeHTML('<table>\n       ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 00:55:16 --> Undefined index: startcolumn
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(19649): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 19649, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(18427): TCPDF->closeHTMLTagHandler(Array, 89, false, 77.405245533333)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(122): TCPDF->writeHTML('<table>\n       ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 00:56:42 --> Undefined index: thead
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(16631): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 16631, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17343): TCPDF->getHtmlDomArray('<table><tr><td>...')
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(135): TCPDF->writeHTML('<table>\n       ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 00:56:46 --> Undefined index: thead
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(16631): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 16631, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17343): TCPDF->getHtmlDomArray('<table><tr><td>...')
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(135): TCPDF->writeHTML('<table>\n       ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 00:57:09 --> Undefined index: thead
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(16631): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 16631, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17343): TCPDF->getHtmlDomArray('<table><tr><td>...')
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(136): TCPDF->writeHTML('<table>\n       ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 01:05:13 --> Undefined index: cols
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17071): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 17071, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17343): TCPDF->getHtmlDomArray('<table><tr><td>...')
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(134): TCPDF->writeHTML('<table>\n       ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 01:12:57 --> Undefined index: water_discount
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(118): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 118, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-04 01:20:26 --> Undefined index: cols
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17071): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 17071, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17343): TCPDF->getHtmlDomArray('<table><tr><td>...')
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(137): TCPDF->writeHTML('<table>\n       ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 01:21:16 --> Undefined index: cols
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17071): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 17071, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17343): TCPDF->getHtmlDomArray('<table><tr><td>...')
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(138): TCPDF->writeHTML('<table>\n       ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 01:21:20 --> Undefined index: cols
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17071): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 17071, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17343): TCPDF->getHtmlDomArray('<table><tr><td>...')
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(138): TCPDF->writeHTML('<table>\n       ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 01:29:06 --> Undefined index: cols
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17071): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 17071, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17343): TCPDF->getHtmlDomArray('<table><tr><td>...')
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(138): TCPDF->writeHTML('<table>\n       ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 01:34:29 --> Undefined index: cols
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17071): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 17071, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17343): TCPDF->getHtmlDomArray('<table style="b...')
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(142): TCPDF->writeHTML('<table style="b...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 01:39:39 --> Undefined index: cols
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17071): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 17071, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17343): TCPDF->getHtmlDomArray('<table><tr><td>...')
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(136): TCPDF->writeHTML('<table>\n       ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 01:48:21 --> Undefined variable: cellspacingx
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(18258): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 18258, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(125): TCPDF->writeHTML('<table>\n       ...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-04 01:49:35 --> Undefined variable: cellspacingx
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(18258): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 18258, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(125): TCPDF->writeHTML('<table>\n       ...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-04 01:51:55 --> Undefined index: cols
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17071): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 17071, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17343): TCPDF->getHtmlDomArray('<table><tr><td>...')
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(125): TCPDF->writeHTML('<table>\n       ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 03:00:07 --> array_push() expects parameter 1 to be array, null given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'array_push() ex...', '/home1/wartiz/p...', 18332, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(18332): array_push(NULL, Array)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(126): TCPDF->writeHTML('<table>\n       ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 03:06:10 --> syntax error, unexpected '='
+#0 /home1/wartiz/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/gene...')
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/gene...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-04 03:06:52 --> Undefined index: startcolumn
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(19649): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 19649, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(18427): TCPDF->closeHTMLTagHandler(Array, 3, false, 13.96875)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(135): TCPDF->writeHTML('<table>\n       ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 03:14:58 --> Undefined variable: cellspacingx
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(18258): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 18258, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(130): TCPDF->writeHTML('<table>\n       ...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-04 03:25:46 --> Undefined index: startcolumn
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(19649): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 19649, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(18427): TCPDF->closeHTMLTagHandler(Array, 11, false, 33.957829861111)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(131): TCPDF->writeHTML('<table>\n       ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 03:32:20 --> Undefined variable: cellspacingx
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(18258): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 18258, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(130): TCPDF->writeHTML('<table>\n       ...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-04 03:32:24 --> Undefined variable: cellspacingx
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(18258): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 18258, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(130): TCPDF->writeHTML('<table>\n       ...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-04 03:56:40 --> Undefined index: cols
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17071): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 17071, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17343): TCPDF->getHtmlDomArray('<table><tr><td ...')
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(132): TCPDF->writeHTML('<table>\n       ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 03:56:50 --> Undefined index: cols
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17071): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 17071, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17343): TCPDF->getHtmlDomArray('<table><tr><td ...')
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(132): TCPDF->writeHTML('<table>\n       ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 04:04:06 --> Undefined index: thead
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(16631): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 16631, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17343): TCPDF->getHtmlDomArray('<table><tr><td ...')
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(133): TCPDF->writeHTML('<table>\n       ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 04:44:08 --> syntax error, unexpected '='
+#0 /home1/wartiz/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/gene...')
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/gene...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-04 04:44:58 --> syntax error, unexpected '='
+#0 /home1/wartiz/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/gene...')
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/gene...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-04 05:43:06 --> Undefined variable: cellspacingx
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(18258): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 18258, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(263): TCPDF->writeHTML('<table >\n      ...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-04 05:58:27 --> Undefined index: thead
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(16631): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 16631, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(17343): TCPDF->getHtmlDomArray('<table ><tr><td...')
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(264): TCPDF->writeHTML('<table >\n      ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 06:44:50 --> Undefined variable: cellspacingx
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(18258): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 18258, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(264): TCPDF->writeHTML('<table >\n      ...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-04 06:50:26 --> Cannot access protected property TCPDF::$y
+#0 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-04 06:50:45 --> syntax error, unexpected '33' (T_LNUMBER), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 /home1/wartiz/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/gene...')
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/gene...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-04 07:09:18 --> Undefined index: startcolumn
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(19649): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 19649, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(18427): TCPDF->closeHTMLTagHandler(Array, 411, false, 155.22871828333)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(285): TCPDF->writeHTML('<table >\n      ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 07:10:18 --> Undefined index: startcolumn
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(19649): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 19649, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(18427): TCPDF->closeHTMLTagHandler(Array, 411, false, 155.22871828333)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(285): TCPDF->writeHTML('<table >\n      ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-04 07:12:07 --> Undefined index: startcolumn
+#0 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(19649): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home1/wartiz/p...', 19649, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/ThirdParty/tcpdf/tcpdf.php(18427): TCPDF->closeHTMLTagHandler(Array, 417, false, 159.19746828333)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(279): TCPDF->writeHTML('<table >\n      ...')
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

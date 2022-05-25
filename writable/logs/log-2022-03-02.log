@@ -1,0 +1,64 @@
+CRITICAL - 2022-03-02 06:28:46 --> type is not a valid rule.
+#0 /home/wa055txhks3z/public_html/roshan_energy/system/Validation/Validation.php(285): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('type')
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/Validation/Validation.php(151): CodeIgniter\Validation\Validation->processRules('file', 'file', NULL, Array, Array)
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Settings.php(30): CodeIgniter\Controller->validate(Array)
+#4 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Settings->edit_profile()
+#5 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Settings))
+#6 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-02 06:33:25 --> Call to a member function move() on null
+#0 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Settings->edit_profile()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Settings))
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-02 06:33:46 --> fopen(https://www.roshanenergy.us/roshan_energyprofile_img/index.html): failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(https://w...', '/home/wa055txhk...', 174, Array)
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/HTTP/Files/UploadedFile.php(174): fopen('https://www.ros...', 'x+b')
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/HTTP/Files/UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('https://www.ros...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Settings.php(47): CodeIgniter\HTTP\Files\UploadedFile->move('https://www.ros...')
+#4 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Settings->edit_profile()
+#5 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Settings))
+#6 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-02 06:35:15 --> fopen(https://www.roshanenergy.us/roshan_energy/profile_img/index.html): failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(https://w...', '/home/wa055txhk...', 174, Array)
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/HTTP/Files/UploadedFile.php(174): fopen('https://www.ros...', 'x+b')
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/HTTP/Files/UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('https://www.ros...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Settings.php(49): CodeIgniter\HTTP\Files\UploadedFile->move('https://www.ros...')
+#4 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Settings->edit_profile()
+#5 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Settings))
+#6 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-02 06:52:29 --> syntax error, unexpected '"_"' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+#0 /home/wa055txhks3z/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Settings/edit_p...')
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Settings/edit_p...')
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-02 07:02:00 --> syntax error, unexpected ''_'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+#0 /home/wa055txhks3z/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Settings/edit_p...')
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Settings/edit_p...')
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-02 07:02:16 --> syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+#0 /home/wa055txhks3z/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Settings/edit_p...')
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Settings/edit_p...')
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-02 07:02:20 --> syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+#0 /home/wa055txhks3z/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Settings/edit_p...')
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Settings/edit_p...')
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

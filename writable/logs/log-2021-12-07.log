@@ -1,0 +1,126 @@
+CRITICAL - 2021-12-07 00:08:49 --> Invalid file: template/header.php
+#0 C:\xampp\htdocs\roshan_energy\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header...')
+#1 C:\xampp\htdocs\roshan_energy\system\Common.php(1097): CodeIgniter\View\View->render('template/header', Array, true)
+#2 C:\xampp\htdocs\roshan_energy\app\Views\Authentication\dashboard.php(6): view('template/header')
+#3 C:\xampp\htdocs\roshan_energy\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roshan_energy\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\xampp\htdocs\roshan_energy\system\Common.php(1097): CodeIgniter\View\View->render('Authentication/...', Array, true)
+#6 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(93): view('Authentication/...')
+#7 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->dashboard()
+#8 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#9 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-12-07 00:08:51 --> Invalid file: template/header.php
+#0 C:\xampp\htdocs\roshan_energy\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header...')
+#1 C:\xampp\htdocs\roshan_energy\system\Common.php(1097): CodeIgniter\View\View->render('template/header', Array, true)
+#2 C:\xampp\htdocs\roshan_energy\app\Views\Authentication\dashboard.php(6): view('template/header')
+#3 C:\xampp\htdocs\roshan_energy\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roshan_energy\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\xampp\htdocs\roshan_energy\system\Common.php(1097): CodeIgniter\View\View->render('Authentication/...', Array, true)
+#6 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(93): view('Authentication/...')
+#7 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->dashboard()
+#8 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#9 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-12-07 00:09:11 --> Invalid file: template/header.php
+#0 C:\xampp\htdocs\roshan_energy\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header...')
+#1 C:\xampp\htdocs\roshan_energy\system\Common.php(1097): CodeIgniter\View\View->render('template/header', Array, true)
+#2 C:\xampp\htdocs\roshan_energy\app\Views\Authentication\dashboard.php(6): view('template/header')
+#3 C:\xampp\htdocs\roshan_energy\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roshan_energy\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\xampp\htdocs\roshan_energy\system\Common.php(1097): CodeIgniter\View\View->render('Authentication/...', Array, true)
+#6 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(93): view('Authentication/...')
+#7 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->dashboard()
+#8 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#9 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-12-07 00:09:13 --> Invalid file: template/header.php
+#0 C:\xampp\htdocs\roshan_energy\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header...')
+#1 C:\xampp\htdocs\roshan_energy\system\Common.php(1097): CodeIgniter\View\View->render('template/header', Array, true)
+#2 C:\xampp\htdocs\roshan_energy\app\Views\Authentication\dashboard.php(6): view('template/header')
+#3 C:\xampp\htdocs\roshan_energy\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roshan_energy\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\xampp\htdocs\roshan_energy\system\Common.php(1097): CodeIgniter\View\View->render('Authentication/...', Array, true)
+#6 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(93): view('Authentication/...')
+#7 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->dashboard()
+#8 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#9 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-12-07 00:09:25 --> Invalid file: /template/header.php
+#0 C:\xampp\htdocs\roshan_energy\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/template/heade...')
+#1 C:\xampp\htdocs\roshan_energy\system\Common.php(1097): CodeIgniter\View\View->render('/template/heade...', Array, true)
+#2 C:\xampp\htdocs\roshan_energy\app\Views\Authentication\dashboard.php(6): view('/template/heade...')
+#3 C:\xampp\htdocs\roshan_energy\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roshan_energy\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\xampp\htdocs\roshan_energy\system\Common.php(1097): CodeIgniter\View\View->render('Authentication/...', Array, true)
+#6 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(93): view('Authentication/...')
+#7 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->dashboard()
+#8 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#9 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-12-07 00:09:27 --> Invalid file: /template/header.php
+#0 C:\xampp\htdocs\roshan_energy\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/template/heade...')
+#1 C:\xampp\htdocs\roshan_energy\system\Common.php(1097): CodeIgniter\View\View->render('/template/heade...', Array, true)
+#2 C:\xampp\htdocs\roshan_energy\app\Views\Authentication\dashboard.php(6): view('/template/heade...')
+#3 C:\xampp\htdocs\roshan_energy\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roshan_energy\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\xampp\htdocs\roshan_energy\system\Common.php(1097): CodeIgniter\View\View->render('Authentication/...', Array, true)
+#6 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(93): view('Authentication/...')
+#7 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->dashboard()
+#8 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#9 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-12-07 00:38:51 --> Invalid file: <!-- DEBUG-VIEW START 1 APPPATH\Views\Authentication\dashboard.php -->
+<!-- Admin Dashboard -->
+<!-- main section -->
+            <div class="main-section">
+             <img src="assets/img/logos/logo.jpeg" title="" class="img-responsive w250">
+            </div>
+
+
+
+                                        
+
+
+
+    
+<!-- DEBUG-VIEW ENDED 1 APPPATH\Views\Authentication\dashboard.php -->
+
+#0 C:\xampp\htdocs\roshan_energy\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('<!-- DEBUG-VIEW...')
+#1 C:\xampp\htdocs\roshan_energy\system\Common.php(1097): CodeIgniter\View\View->render('<!-- DEBUG-VIEW...', Array, true)
+#2 C:\xampp\htdocs\roshan_energy\app\Views\template\template.php(5): view('<!-- DEBUG-VIEW...')
+#3 C:\xampp\htdocs\roshan_energy\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roshan_energy\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\xampp\htdocs\roshan_energy\system\Common.php(1097): CodeIgniter\View\View->render('template/templa...', Array, true)
+#6 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(99): view('template/templa...', Array)
+#7 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->dashboard()
+#8 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#9 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-12-07 05:26:22 --> Undefined property: App\Controllers\Authentication::$session
+#0 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(88): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 88, Array)
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->dashboard()
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#3 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-07 05:26:22 --> Undefined property: App\Controllers\Authentication::$session
+#0 C:\xampp\htdocs\roshan_energy\app\Controllers\Authentication.php(88): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 88, Array)
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->dashboard()
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#3 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-07 05:26:45 --> Call to a member function get() on null
+#0 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(824): App\Controllers\Authentication->dashboard()
+#1 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#2 C:\xampp\htdocs\roshan_energy\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\roshan_energy\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

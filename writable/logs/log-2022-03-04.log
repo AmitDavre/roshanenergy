@@ -1,0 +1,27 @@
+CRITICAL - 2022-03-04 00:33:48 --> CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-04 00:33:51 --> CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-04 00:36:29 --> CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-04 00:39:39 --> CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-04 00:39:45 --> CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-04 00:39:59 --> CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-04 00:42:06 --> CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-04 01:07:34 --> composerRequire575eb13c78d9cf4e49f139575b78e80d(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php73/usr/share/pear')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-04 01:08:03 --> composerRequire575eb13c78d9cf4e49f139575b78e80d(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php73/usr/share/pear')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}

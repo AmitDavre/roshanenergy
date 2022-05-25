@@ -1,0 +1,41 @@
+ERROR - 2022-03-06 23:36:50 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''biller','customer' AND id = '1'' at line 1
+CRITICAL - 2022-03-06 23:36:50 --> Call to a member function getResultArray() on bool
+#0 /home/wa055txhks3z/public_html/roshan_energy/system/View/View.php(214): include()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#3 /home/wa055txhks3z/public_html/roshan_energy/app/Views/template_with_header/template.php(3): view('template_with_h...')
+#4 /home/wa055txhks3z/public_html/roshan_energy/system/View/View.php(214): include('/home/wa055txhk...')
+#5 /home/wa055txhks3z/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 /home/wa055txhks3z/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#7 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Payments.php(88): view('template_with_h...', Array)
+#8 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->payments()
+#9 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#10 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-03-06 23:55:36 --> syntax error, unexpected 'firstname' (T_STRING), expecting ',' or ';'
+#0 /home/wa055txhks3z/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#2 /home/wa055txhks3z/public_html/roshan_energy/app/Views/template_with_header/template.php(3): view('template_with_h...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/View/View.php(214): include('/home/wa055txhk...')
+#4 /home/wa055txhks3z/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 /home/wa055txhks3z/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#6 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Customers.php(63): view('template_with_h...', Array)
+#7 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Customers->customer_statements()
+#8 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+#9 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-03-06 23:57:37 --> syntax error, unexpected 'firstname' (T_STRING), expecting ',' or ';'
+#0 /home/wa055txhks3z/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#2 /home/wa055txhks3z/public_html/roshan_energy/app/Views/template_with_header/template.php(3): view('template_with_h...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/View/View.php(214): include('/home/wa055txhk...')
+#4 /home/wa055txhks3z/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 /home/wa055txhks3z/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#6 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Customers.php(63): view('template_with_h...', Array)
+#7 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Customers->customer_statements()
+#8 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+#9 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}

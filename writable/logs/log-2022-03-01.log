@@ -1,0 +1,11 @@
+CRITICAL - 2022-03-01 11:00:25 --> There is no data to insert.
+#0 /home/wa055txhks3z/public_html/roshan_energy/system/BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(Array, 'insert')
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#3 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(1485): CodeIgniter\Model->insert(Array)
+#4 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#5 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#6 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-03-01 23:48:39 --> Unknown column 'month_name_numeric' in 'where clause'

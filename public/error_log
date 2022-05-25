@@ -1,0 +1,1007 @@
+[16-Dec-2021 00:51:51 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php on line 159
+[16-Dec-2021 00:52:14 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php on line 159
+[16-Dec-2021 00:55:18 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php on line 159
+[30-Dec-2021 01:47:13 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home1/wartiz/public_html/roshan_energy/app/Views/Authentication/login.php on line 7
+[03-Jan-2022 01:14:15 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(tcpdf_include.php): failed to open stream: No such file or directory in /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php:47
+Stack trace:
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(tc...', '/home1/wartiz/p...', 47, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(47): require_once()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+  thrown in /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php on line 47
+[03-Jan-2022 01:14:15 America/Chicago] PHP Fatal error:  App\Controllers\Statements::generate_statements(): Failed opening required 'tcpdf_include.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php on line 47
+[03-Jan-2022 01:36:19 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php on line 76
+[03-Jan-2022 04:47:47 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(tcpdf.php): failed to open stream: No such file or directory in /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php:65
+Stack trace:
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(tc...', '/home1/wartiz/p...', 65, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(65): require_once()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+  thrown in /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php on line 65
+[03-Jan-2022 04:47:47 America/Chicago] PHP Fatal error:  App\Controllers\Statements::generate_statements(): Failed opening required 'tcpdf.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php on line 65
+[03-Jan-2022 04:48:06 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(tcpdf_include.php): failed to open stream: No such file or directory in /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php:65
+Stack trace:
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(tc...', '/home1/wartiz/p...', 65, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(65): require_once()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+  thrown in /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php on line 65
+[03-Jan-2022 04:48:06 America/Chicago] PHP Fatal error:  App\Controllers\Statements::generate_statements(): Failed opening required 'tcpdf_include.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php on line 65
+[03-Jan-2022 04:48:12 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(tcpdf_include.php): failed to open stream: No such file or directory in /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php:65
+Stack trace:
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(tc...', '/home1/wartiz/p...', 65, Array)
+#1 /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php(65): require_once()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->generate_statements()
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+  thrown in /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php on line 65
+[03-Jan-2022 04:48:12 America/Chicago] PHP Fatal error:  App\Controllers\Statements::generate_statements(): Failed opening required 'tcpdf_include.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/wartiz/public_html/roshan_energy/app/Controllers/Statements.php on line 65
+[20-Jan-2022 05:30:30 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php on line 271
+[20-Jan-2022 05:31:52 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php on line 271
+[20-Jan-2022 05:42:24 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php on line 272
+[20-Jan-2022 05:42:25 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php on line 272
+[20-Jan-2022 05:42:49 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php on line 272
+[27-Jan-2022 03:58:54 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php on line 953
+[27-Jan-2022 03:59:13 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php on line 953
+[27-Jan-2022 03:59:14 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php on line 953
+[27-Jan-2022 03:59:15 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php on line 953
+[27-Jan-2022 03:59:16 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php on line 953
+[27-Jan-2022 03:59:17 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php on line 953
+[27-Jan-2022 03:59:17 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php on line 953
+[27-Jan-2022 23:07:41 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php on line 997
+[01-Feb-2022 06:49:31 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php on line 1043
+[02-Feb-2022 05:48:52 America/Chicago] PHP Fatal error:  Cannot redeclare App\Controllers\Dashboard::exportData() in /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Dashboard.php on line 1137
+[02-Feb-2022 07:06:42 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php on line 1263
+[15-Feb-2022 04:39:49 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php on line 230
+[18-Feb-2022 03:19:12 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[18-Feb-2022 03:20:27 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[18-Feb-2022 03:29:00 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[18-Feb-2022 03:49:14 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[18-Feb-2022 03:56:35 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[18-Feb-2022 03:56:41 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[18-Feb-2022 03:56:43 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[18-Feb-2022 05:01:13 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[18-Feb-2022 05:01:17 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[18-Feb-2022 05:01:22 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[18-Feb-2022 05:01:25 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[18-Feb-2022 05:01:40 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[18-Feb-2022 06:44:41 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[18-Feb-2022 06:44:45 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[18-Feb-2022 07:02:09 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[20-Feb-2022 23:32:39 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[20-Feb-2022 23:32:47 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 00:36:43 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 00:36:50 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 01:23:48 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 03:30:12 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 03:31:29 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 03:32:08 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 03:32:12 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 03:34:13 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 03:34:51 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 04:12:30 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 04:13:07 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 04:13:10 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 04:13:42 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 04:16:09 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 04:16:15 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 04:26:02 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 04:26:06 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 05:41:49 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 06:23:34 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 22:35:40 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 22:36:16 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 22:47:11 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 23:02:33 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 23:06:30 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 23:07:21 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 23:07:30 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 23:15:31 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 23:38:22 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 23:39:21 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 23:42:42 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[21-Feb-2022 23:43:38 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[22-Feb-2022 00:07:34 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[22-Feb-2022 00:07:45 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[22-Feb-2022 00:57:05 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[22-Feb-2022 01:02:30 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[22-Feb-2022 01:39:42 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[22-Feb-2022 01:40:23 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[22-Feb-2022 01:41:04 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[22-Feb-2022 01:46:52 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[22-Feb-2022 03:31:07 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[22-Feb-2022 03:35:24 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[22-Feb-2022 03:40:36 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[22-Feb-2022 03:40:45 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[22-Feb-2022 03:41:10 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[22-Feb-2022 03:42:58 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[22-Feb-2022 03:43:40 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[22-Feb-2022 03:45:01 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[22-Feb-2022 03:45:43 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[22-Feb-2022 03:45:48 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[22-Feb-2022 03:46:26 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[22-Feb-2022 03:48:35 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[22-Feb-2022 03:53:28 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[22-Feb-2022 03:58:12 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[22-Feb-2022 06:29:35 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[22-Feb-2022 06:30:39 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[23-Feb-2022 05:35:33 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[23-Feb-2022 05:37:44 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[23-Feb-2022 05:38:55 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[23-Feb-2022 05:45:22 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[23-Feb-2022 05:47:01 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[23-Feb-2022 05:47:43 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[23-Feb-2022 05:49:07 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[23-Feb-2022 05:51:44 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[23-Feb-2022 05:52:13 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[23-Feb-2022 05:52:37 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[23-Feb-2022 06:03:57 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[23-Feb-2022 06:04:25 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[23-Feb-2022 06:04:27 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[23-Feb-2022 06:06:24 America/Chicago] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(341): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home4/projectmanagment/public_html/roshan_energy/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home4/projectmanagment/public_html/roshan_energy/system/Debug/Exceptions.php(110): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in /home4/projectmanagment/public_html/roshan_energy/system/Format/JSONFormatter.php on line 41
+[24-Feb-2022 01:08:24 America/Chicago] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php on line 2
+[24-Feb-2022 01:08:28 America/Chicago] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Statements.php on line 2
+[24-Feb-2022 07:24:04 America/Chicago] PHP Fatal error:  Cannot redeclare App\Controllers\Settings::update_data() in /home4/projectmanagment/public_html/roshan_energy/app/Controllers/Settings.php on line 69
+[28-Feb-2022 00:45:32 America/Chicago] PHP Warning:  Uncaught ErrorException: require(../payment_files/vendor/autoload.php): failed to open stream: No such file or directory in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Payments.php:394
+Stack trace:
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Payments.php(394): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(../paym...', '/home/wa055txhk...', 394, Array)
+#1 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Payments.php(394): require()
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->card_details()
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#4 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+  in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Payments.php on line 394
+[28-Feb-2022 00:45:32 America/Chicago] PHP Fatal error:  App\Controllers\Payments::card_details(): Failed opening required '../payment_files/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Payments.php on line 394
+[28-Feb-2022 00:49:28 America/Chicago] PHP Warning:  Uncaught ErrorException: require(../payment_files/vendor/autoload.php): failed to open stream: No such file or directory in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Payments.php:394
+Stack trace:
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Payments.php(394): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(../paym...', '/home/wa055txhk...', 394, Array)
+#1 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Payments.php(394): require()
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Payments->card_details()
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payments))
+#4 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+  in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Payments.php on line 394
+[28-Feb-2022 00:49:28 America/Chicago] PHP Fatal error:  App\Controllers\Payments::card_details(): Failed opening required '../payment_files/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Payments.php on line 394
+[03-Mar-2022 23:35:21 America/Chicago] PHP Warning:  Uncaught ErrorException: require(/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php): failed to open stream: No such file or directory in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php:15
+Stack trace:
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(/home/w...', '/home/wa055txhk...', 15, Array)
+#1 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Router/Router.php(519): include_once('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Statements/util...')
+#4 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Statements/util...')
+#5 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter- in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[03-Mar-2022 23:35:21 America/Chicago] PHP Fatal error:  CodeIgniter\Router\Router::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[03-Mar-2022 23:35:24 America/Chicago] PHP Warning:  Uncaught ErrorException: require(/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php): failed to open stream: No such file or directory in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php:15
+Stack trace:
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(/home/w...', '/home/wa055txhk...', 15, Array)
+#1 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#4 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\ in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[03-Mar-2022 23:35:24 America/Chicago] PHP Fatal error:  CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[03-Mar-2022 23:35:33 America/Chicago] PHP Warning:  Uncaught ErrorException: require(/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php): failed to open stream: No such file or directory in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php:15
+Stack trace:
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(/home/w...', '/home/wa055txhk...', 15, Array)
+#1 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#4 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\ in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[03-Mar-2022 23:35:33 America/Chicago] PHP Fatal error:  CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[03-Mar-2022 23:37:30 America/Chicago] PHP Warning:  Uncaught ErrorException: require(/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php): failed to open stream: No such file or directory in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php:15
+Stack trace:
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(/home/w...', '/home/wa055txhk...', 15, Array)
+#1 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#4 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\ in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[03-Mar-2022 23:37:30 America/Chicago] PHP Fatal error:  CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[03-Mar-2022 23:37:55 America/Chicago] PHP Warning:  Uncaught ErrorException: require(/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php): failed to open stream: No such file or directory in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php:15
+Stack trace:
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(/home/w...', '/home/wa055txhk...', 15, Array)
+#1 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#4 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\ in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[03-Mar-2022 23:37:55 America/Chicago] PHP Fatal error:  CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[03-Mar-2022 23:38:39 America/Chicago] PHP Warning:  Uncaught ErrorException: require(/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php): failed to open stream: No such file or directory in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php:15
+Stack trace:
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(/home/w...', '/home/wa055txhk...', 15, Array)
+#1 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#4 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\ in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[03-Mar-2022 23:38:39 America/Chicago] PHP Fatal error:  CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[03-Mar-2022 23:39:42 America/Chicago] PHP Warning:  Uncaught ErrorException: require(/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php): failed to open stream: No such file or directory in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php:15
+Stack trace:
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(/home/w...', '/home/wa055txhk...', 15, Array)
+#1 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#4 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\ in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[03-Mar-2022 23:39:42 America/Chicago] PHP Fatal error:  CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[04-Mar-2022 00:33:48 America/Chicago] PHP Warning:  Uncaught ErrorException: require(/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php): failed to open stream: No such file or directory in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php:15
+Stack trace:
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(/home/w...', '/home/wa055txhk...', 15, Array)
+#1 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#4 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\ in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[04-Mar-2022 00:33:48 America/Chicago] PHP Fatal error:  CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[04-Mar-2022 00:33:51 America/Chicago] PHP Warning:  Uncaught ErrorException: require(/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php): failed to open stream: No such file or directory in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php:15
+Stack trace:
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(/home/w...', '/home/wa055txhk...', 15, Array)
+#1 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#4 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\ in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[04-Mar-2022 00:33:51 America/Chicago] PHP Fatal error:  CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[04-Mar-2022 00:36:29 America/Chicago] PHP Warning:  Uncaught ErrorException: require(/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php): failed to open stream: No such file or directory in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php:15
+Stack trace:
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(/home/w...', '/home/wa055txhk...', 15, Array)
+#1 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#4 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\ in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[04-Mar-2022 00:36:29 America/Chicago] PHP Fatal error:  CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[04-Mar-2022 00:39:39 America/Chicago] PHP Warning:  Uncaught ErrorException: require(/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php): failed to open stream: No such file or directory in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php:15
+Stack trace:
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(/home/w...', '/home/wa055txhk...', 15, Array)
+#1 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#4 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\ in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[04-Mar-2022 00:39:39 America/Chicago] PHP Fatal error:  CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[04-Mar-2022 00:39:45 America/Chicago] PHP Warning:  Uncaught ErrorException: require(/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php): failed to open stream: No such file or directory in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php:15
+Stack trace:
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(/home/w...', '/home/wa055txhk...', 15, Array)
+#1 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#4 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\ in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[04-Mar-2022 00:39:45 America/Chicago] PHP Fatal error:  CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[04-Mar-2022 00:39:59 America/Chicago] PHP Warning:  Uncaught ErrorException: require(/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php): failed to open stream: No such file or directory in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php:15
+Stack trace:
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(/home/w...', '/home/wa055txhk...', 15, Array)
+#1 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#4 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\ in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[04-Mar-2022 00:39:59 America/Chicago] PHP Fatal error:  CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[04-Mar-2022 00:42:06 America/Chicago] PHP Warning:  Uncaught ErrorException: require(/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php): failed to open stream: No such file or directory in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php:15
+Stack trace:
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(/home/w...', '/home/wa055txhk...', 15, Array)
+#1 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#4 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\ in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[04-Mar-2022 00:42:06 America/Chicago] PHP Fatal error:  CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php on line 15
+[04-Mar-2022 01:07:34 America/Chicago] PHP Warning:  Uncaught ErrorException: require(/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/composer/autoload_real.php:71
+Stack trace:
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/composer/autoload_real.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(/home/w...', '/home/wa055txhk...', 71, Array)
+#1 /home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/composer/autoload_real.php(71): require()
+#2 /home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/composer/autoload_real.php(61): composerRequire575eb13c78d9cf4e49f139575b78e80d('0e6d7bf4a5811bf...', '/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php(7): ComposerAutoloaderInit575eb13c78d9cf4e49f139575b78e80d::getLoader()
+#4 /home/wa055txhks3z/public_html/roshan_ene in /home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/composer/autoload_real.php on line 71
+[04-Mar-2022 01:07:34 America/Chicago] PHP Fatal error:  composerRequire575eb13c78d9cf4e49f139575b78e80d(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/composer/autoload_real.php on line 71
+[04-Mar-2022 01:08:03 America/Chicago] PHP Warning:  Uncaught ErrorException: require(/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/composer/autoload_real.php:71
+Stack trace:
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/composer/autoload_real.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(/home/w...', '/home/wa055txhk...', 71, Array)
+#1 /home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/composer/autoload_real.php(71): require()
+#2 /home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/composer/autoload_real.php(61): composerRequire575eb13c78d9cf4e49f139575b78e80d('0e6d7bf4a5811bf...', '/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php(7): ComposerAutoloaderInit575eb13c78d9cf4e49f139575b78e80d::getLoader()
+#4 /home/wa055txhks3z/public_html/roshan_ene in /home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/composer/autoload_real.php on line 71
+[04-Mar-2022 01:08:03 America/Chicago] PHP Fatal error:  composerRequire575eb13c78d9cf4e49f139575b78e80d(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/composer/autoload_real.php on line 71

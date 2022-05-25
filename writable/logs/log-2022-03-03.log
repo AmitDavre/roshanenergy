@@ -1,0 +1,298 @@
+CRITICAL - 2022-03-03 00:21:36 --> Call to a member function where() on null
+#0 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Settings->edit_profile()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Settings))
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-03 00:33:13 --> Cannot use object of type CodeIgniter\HTTP\Files\UploadedFile as array
+#0 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Settings->edit_profile()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Settings))
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-03 00:34:23 --> Cannot use object of type CodeIgniter\HTTP\Files\UploadedFile as array
+#0 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Settings->edit_profile()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Settings))
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-03 00:38:54 --> finfo_file(/tmp/phpiA4mfc): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'finfo_file(/tmp...', '/home/wa055txhk...', 109, Array)
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/Files/File.php(109): finfo_file(Resource id #16, '/tmp/phpiA4mfc')
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/HTTP/Files/UploadedFile.php(297): CodeIgniter\Files\File->getMimeType()
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/HTTP/Files/UploadedFile.php(286): CodeIgniter\HTTP\Files\UploadedFile->guessExtension()
+#4 /home/wa055txhks3z/public_html/roshan_energy/system/Files/File.php(121): CodeIgniter\HTTP\Files\UploadedFile->getExtension()
+#5 /home/wa055txhks3z/public_html/roshan_energy/system/HTTP/Files/UploadedFile.php(333): CodeIgniter\Files\File->getRandomName()
+#6 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Settings.php(50): CodeIgniter\HTTP\Files\UploadedFile->store()
+#7 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Settings->edit_profile()
+#8 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Settings))
+#9 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-03-03 01:25:46 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 /home/wa055txhks3z/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template/header...', Array, true)
+#2 /home/wa055txhks3z/public_html/roshan_energy/app/Views/template/template.php(3): view('template/header...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/View/View.php(214): include('/home/wa055txhk...')
+#4 /home/wa055txhks3z/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 /home/wa055txhks3z/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template/templa...', Array, true)
+#6 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Authentication.php(120): view('template/templa...', Array)
+#7 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Authentication->dashboard()
+#8 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#9 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-03-03 05:58:49 --> syntax error, unexpected ''<style>' (T_ENCAPSED_AND_WHITESPACE)
+#0 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-03-03 22:46:36 --> Unknown column 'account_number' in 'where clause'
+CRITICAL - 2022-03-03 22:57:12 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-03 22:58:26 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-03 23:27:55 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Statements->utility_statements()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Statements))
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-03 23:35:21 --> CodeIgniter\Router\Router::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-03 23:35:24 --> CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-03 23:35:33 --> CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-03 23:37:30 --> CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-03 23:37:55 --> CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-03 23:38:39 --> CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-03 23:39:42 --> CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/home/wa055txhks3z/public_html/roshan_energy/app/ThirdParty/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-03 23:41:46 --> Class 'ComposerAutoloaderInit575eb13c78d9cf4e49f139575b78e80d' not found
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#5 [internal function]: spl_autoload_call('App\\Controllers...')
+#6 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-03-03 23:41:52 --> Class 'ComposerAutoloaderInit575eb13c78d9cf4e49f139575b78e80d' not found
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#5 [internal function]: spl_autoload_call('App\\Controllers...')
+#6 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-03-03 23:42:01 --> Class 'ComposerAutoloaderInit575eb13c78d9cf4e49f139575b78e80d' not found
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#5 [internal function]: spl_autoload_call('App\\Controllers...')
+#6 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-03-03 23:42:24 --> Class 'ComposerAutoloaderInit575eb13c78d9cf4e49f139575b78e80d' not found
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#5 [internal function]: spl_autoload_call('App\\Controllers...')
+#6 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-03-03 23:42:43 --> Class 'ComposerAutoloaderInit575eb13c78d9cf4e49f139575b78e80d' not found
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#5 [internal function]: spl_autoload_call('App\\Controllers...')
+#6 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-03-03 23:42:44 --> Class 'ComposerAutoloaderInit575eb13c78d9cf4e49f139575b78e80d' not found
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#5 [internal function]: spl_autoload_call('App\\Controllers...')
+#6 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-03-03 23:42:58 --> Class 'ComposerAutoloaderInit575eb13c78d9cf4e49f139575b78e80d' not found
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#5 [internal function]: spl_autoload_call('App\\Controllers...')
+#6 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-03-03 23:43:04 --> Class 'ComposerAutoloaderInit575eb13c78d9cf4e49f139575b78e80d' not found
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#5 [internal function]: spl_autoload_call('App\\Controllers...')
+#6 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-03-03 23:43:21 --> Class 'ComposerAutoloaderInit575eb13c78d9cf4e49f139575b78e80d' not found
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#5 [internal function]: spl_autoload_call('App\\Controllers...')
+#6 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-03-03 23:43:24 --> Class 'ComposerAutoloaderInit575eb13c78d9cf4e49f139575b78e80d' not found
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#5 [internal function]: spl_autoload_call('App\\Controllers...')
+#6 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-03-03 23:43:42 --> Class 'ComposerAutoloaderInit575eb13c78d9cf4e49f139575b78e80d' not found
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#5 [internal function]: spl_autoload_call('App\\Controllers...')
+#6 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-03-03 23:44:05 --> Class 'ComposerAutoloaderInit575eb13c78d9cf4e49f139575b78e80d' not found
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#5 [internal function]: spl_autoload_call('App\\Controllers...')
+#6 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-03-03 23:44:10 --> Class 'ComposerAutoloaderInit575eb13c78d9cf4e49f139575b78e80d' not found
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#5 [internal function]: spl_autoload_call('App\\Controllers...')
+#6 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-03-03 23:44:25 --> Class 'ComposerAutoloaderInit575eb13c78d9cf4e49f139575b78e80d' not found
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#5 [internal function]: spl_autoload_call('App\\Controllers...')
+#6 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-03-03 23:44:52 --> Class 'ComposerAutoloaderInit575eb13c78d9cf4e49f139575b78e80d' not found
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#5 [internal function]: spl_autoload_call('App\\Controllers...')
+#6 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-03-03 23:45:08 --> Class 'ComposerAutoloaderInit575eb13c78d9cf4e49f139575b78e80d' not found
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#5 [internal function]: spl_autoload_call('App\\Controllers...')
+#6 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-03-03 23:48:41 --> Class 'ComposerAutoloaderInit575eb13c78d9cf4e49f139575b78e80d' not found
+#0 /home/wa055txhks3z/public_html/roshan_energy/app/Controllers/Statements.php(15): require()
+#1 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(264): include_once('/home/wa055txhk...')
+#2 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/wa055txhk...')
+#3 /home/wa055txhks3z/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#5 [internal function]: spl_autoload_call('App\\Controllers...')
+#6 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 /home/wa055txhks3z/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/wa055txhks3z/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}

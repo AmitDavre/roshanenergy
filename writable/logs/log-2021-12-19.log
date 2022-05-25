@@ -1,0 +1,310 @@
+CRITICAL - 2021-12-19 22:11:58 --> There is no data to update.
+#0 /home1/wartiz/public_html/roshan_energy/system/BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home1/wartiz/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(841): CodeIgniter\Model->update('1', Array)
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 22:15:24 --> There is no data to update.
+#0 /home1/wartiz/public_html/roshan_energy/system/BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home1/wartiz/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(841): CodeIgniter\Model->update('1', Array)
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 22:17:19 --> There is no data to update.
+#0 /home1/wartiz/public_html/roshan_energy/system/BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home1/wartiz/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(841): CodeIgniter\Model->update('1', Array)
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 22:30:36 --> There is no data to update.
+#0 /home1/wartiz/public_html/roshan_energy/system/BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home1/wartiz/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(841): CodeIgniter\Model->update('1', Array)
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 22:38:34 --> There is no data to update.
+#0 /home1/wartiz/public_html/roshan_energy/system/BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home1/wartiz/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(841): CodeIgniter\Model->update('1', Array)
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 22:38:40 --> There is no data to update.
+#0 /home1/wartiz/public_html/roshan_energy/system/BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home1/wartiz/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(841): CodeIgniter\Model->update('1', Array)
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 22:40:28 --> There is no data to update.
+#0 /home1/wartiz/public_html/roshan_energy/system/BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home1/wartiz/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(841): CodeIgniter\Model->update('1', Array)
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 22:42:14 --> There is no data to update.
+#0 /home1/wartiz/public_html/roshan_energy/system/BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home1/wartiz/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(841): CodeIgniter\Model->update('1', Array)
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 22:46:11 --> There is no data to update.
+#0 /home1/wartiz/public_html/roshan_energy/system/BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home1/wartiz/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(838): CodeIgniter\Model->update('1', Array)
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 22:46:21 --> There is no data to update.
+#0 /home1/wartiz/public_html/roshan_energy/system/BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home1/wartiz/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(838): CodeIgniter\Model->update('1', Array)
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 22:49:01 --> There is no data to update.
+#0 /home1/wartiz/public_html/roshan_energy/system/BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home1/wartiz/public_html/roshan_energy/system/Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(838): CodeIgniter\Model->update('1', Array)
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 22:55:17 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 /home1/wartiz/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home1/wartiz/p...')
+#1 /home1/wartiz/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-19 22:55:40 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 /home1/wartiz/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home1/wartiz/p...')
+#1 /home1/wartiz/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-19 22:57:05 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 /home1/wartiz/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home1/wartiz/p...')
+#1 /home1/wartiz/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-19 22:57:33 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 /home1/wartiz/public_html/roshan_energy/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home1/wartiz/p...')
+#1 /home1/wartiz/public_html/roshan_energy/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-19 23:17:55 --> Undefined variable: encryprtIDValue
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(839): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 839, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-19 23:18:08 --> Undefined variable: encryprtIDValue
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(839): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 839, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-19 23:18:10 --> Undefined variable: encryprtIDValue
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(839): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 839, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-19 23:18:18 --> Undefined variable: encryprtIDValue
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(839): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 839, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-19 23:18:25 --> Undefined variable: encryprtIDValue
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(839): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 839, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-19 23:18:27 --> Undefined variable: encryprtIDValue
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(839): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 839, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-19 23:32:07 --> Undefined variable: encryptID
+#0 /home1/wartiz/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(72): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 72, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#2 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#6 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(832): view('template_with_h...', Array)
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#10 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2021-12-19 23:32:23 --> Undefined variable: encryptID
+#0 /home1/wartiz/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(72): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 72, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#2 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#6 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(832): view('template_with_h...', Array)
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#10 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2021-12-19 23:32:32 --> Undefined variable: encryptID
+#0 /home1/wartiz/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(72): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 72, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#2 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#6 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(832): view('template_with_h...', Array)
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#10 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2021-12-19 23:33:15 --> Undefined variable: encryptID
+#0 /home1/wartiz/public_html/roshan_energy/app/Views/Dashboard/edit_customer.php(72): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 72, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#2 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('Dashboard/edit_...', Array, true)
+#4 /home1/wartiz/public_html/roshan_energy/app/Views/template_with_header/template.php(5): view('Dashboard/edit_...')
+#5 /home1/wartiz/public_html/roshan_energy/system/View/View.php(214): include('/home1/wartiz/p...')
+#6 /home1/wartiz/public_html/roshan_energy/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home1/wartiz/public_html/roshan_energy/system/Common.php(1097): CodeIgniter\View\View->render('template_with_h...', Array, true)
+#8 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(828): view('template_with_h...', Array)
+#9 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#10 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#11 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2021-12-19 23:35:01 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home1/wartiz/public_html/roshan_energy/system/Router/Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/updat...')
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/updat...')
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-19 23:38:35 --> Undefined variable: model
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(829): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 829, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-19 23:39:40 --> Undefined variable: model
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(829): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 829, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-19 23:40:31 --> Call to undefined function App\Controllers\affectedRows()
+#0 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 23:41:16 --> Undefined variable: model
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(829): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 829, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-19 23:41:53 --> Trying to get property 'db' of non-object
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(829): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/home1/wartiz/p...', 829, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-19 23:42:59 --> Trying to get property 'db' of non-object
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(829): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/home1/wartiz/p...', 829, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-19 23:44:10 --> Trying to get property 'db' of non-object
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(829): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/home1/wartiz/p...', 829, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-19 23:55:55 --> Trying to get property 'db' of non-object
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(829): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/home1/wartiz/p...', 829, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-19 23:56:53 --> Undefined variable: model_customers
+#0 /home1/wartiz/public_html/roshan_energy/app/Controllers/Dashboard.php(829): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home1/wartiz/p...', 829, Array)
+#1 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(824): App\Controllers\Dashboard->update_water_meter()
+#2 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 /home1/wartiz/public_html/roshan_energy/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home1/wartiz/public_html/roshan_energy/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
