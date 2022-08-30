@@ -34,7 +34,7 @@ class Payments extends BaseController
     {
         $session = session();
         $sessionLoginId = $session->get('id');
-        // if sessions exists then only open this page otherwise redirect to login page
+
         if(isset($sessionLoginId))
         {
             // get customer data from the customers table------------->
