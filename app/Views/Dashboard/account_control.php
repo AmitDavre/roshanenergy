@@ -8,7 +8,6 @@
             {?>
             <div class="row">
 
-        <!-- section-1 -->
             <a href="create-customer">
                 <div class="col-sm-4 col-md-4">
                     <div class="panel panel-tile text-center br-a br-light">
@@ -26,7 +25,6 @@
                 </div>
              </a>
 
-        <!--section-2-->
             <a href="create-biller">
                 <div class="col-sm-4 col-md-4">
                     <div class="panel panel-tile text-center br-a br-light">
@@ -44,7 +42,6 @@
                 </div>
             </a>
            
-        <!-- section-3 -->
             <a href="manage-both">
                 <div class="col-sm-4 col-md-4">
                     <div class="panel panel-tile text-center br-a br-light">
@@ -65,7 +62,6 @@
    <?php } 
    else if(session()->get('login_type') == "biller") 
    {?>
-    <!-- section-1 -->
          <div class= "row">
             <a href="create-customer">
                 <div class="col-sm-5 col-md-5">
