@@ -13,7 +13,6 @@ use CodeIgniter\Controller;
 
 class Dashboard extends BaseController
 {
-// account-lookup------>
 
 public function account_control()
 {
