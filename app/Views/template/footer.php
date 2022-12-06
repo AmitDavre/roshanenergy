@@ -1,12 +1,8 @@
 
-<!-- Google Map API -->
     <script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=true"></script>
-
-    <!-- jQuery -->
     <script type="text/javascript" src="<?php echo base_url(); ?>/vendor/jquery/jquery-1.11.1.min.js"></script>
     <script type="text/javascript" src="<?php echo base_url(); ?>/vendor/jquery/jquery_ui/jquery-ui.min.js"></script>
 
-    <!-- Bootstrap -->
     <script type="text/javascript" src="<?php echo base_url(); ?>/assets/js/bootstrap/bootstrap.min.js"></script>
 
     <!-- Sparklines CDN -->
