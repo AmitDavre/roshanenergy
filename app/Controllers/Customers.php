@@ -26,7 +26,6 @@ class Customers extends BaseController
          { 
             $model = new CustomersModel();
 
-            // get account number from customer table=====>
             $customer_data = $model->where('id' , $sessionLogin_id);
             $customer_data1 = $model->first();
             $customerAccountNO =  $customer_data1['account_number'];
@@ -50,15 +49,9 @@ class Customers extends BaseController
          {
             $model_gen_statement = new GenerateStatementModel();
             $statement_record_cus1 = $model_gen_statement->findAll();
-            // echo '<pre>';
-            // print_r($model_gen_statement);
-            // echo '</pre>';
-            // die();
 
-            // fetch data in to the table========>
             $data['statement_record_cus'] = $statement_record_cus1;
             
-            // view customer-satement page=======>
             $data['content']  = 'Customers/customer_statements';
             return view('template_with_header/template' , $data);
          }
