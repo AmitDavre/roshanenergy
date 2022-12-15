@@ -1,7 +1,4 @@
 <!-- BEGIN: PAGE SCRIPTS -->
-<!-- Google Map API -->
-   <!--  <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script> -->
-
 
     <!-- Sparklines CDN -->
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-sparklines/2.1.2/jquery.sparkline.min.js"></script>
@@ -159,8 +156,7 @@
                             selectedHover: {}
                         },
                     });
-                    // Manual code to alter the Vector map plugin to 
-                    // allow for individual coloring of countries
+                  
                     var states = ['US-CA', 'US-TX', 'US-MO',
                         'US-NY'
                     ];
@@ -184,18 +180,12 @@
                     runJvectorMap();
                 }
             }
-            // date of birth
-
-        
-
-
           
         });
 
 
 
 $(document).ready(function () {
-      // Init daterange plugin
         $('#dob').datepicker({
 
             
@@ -218,13 +208,6 @@ $(document).ready(function ()
     }); 
 });
 
-
-
-
-
-
-// SUCCESS ALERT NOTIFICATION MESSAGE===> 
-
      function alertSuccessNotify(title,message){
 
             var Stacks = {
@@ -237,7 +220,6 @@ $(document).ready(function ()
                 },
             }
 
-            // PNotify Plugin Event Init
                 var noteStyle = "success";
                 var noteShadow =true;
                 var noteOpacity = 1;
@@ -257,9 +239,7 @@ $(document).ready(function ()
                 });
 
         }
-// End SUCCESS ALERT NOTIFICATION MESSAGE===> 
 
-// Error ALERT NOTIFICATION MESSAGE===> 
 
      function alertErrorNotify(title,message){
 
@@ -273,7 +253,6 @@ $(document).ready(function ()
                 },
             }
 
-            // PNotify Plugin Event Init
                 var noteStyle = "danger";
                 var noteShadow =true;
                 var noteOpacity = 1;
@@ -293,7 +272,6 @@ $(document).ready(function ()
                 });
 
         }
-// End Error ALERT NOTIFICATION MESSAGE===> 
 
 
 // customer sucess mssg hiide=====>
@@ -305,11 +283,9 @@ $('.ui-pnotify').fadeOut(3000);
 });
 
 
-//end customer sucess mssg hiide=====>
 
 
 
-// inline picker===========================>
 $('#daterangepicker1').daterangepicker();
     $('#inline-daterange').daterangepicker(
         function(start, end) 
@@ -318,9 +294,7 @@ $('#daterangepicker1').daterangepicker();
         }
     );
 
-$('#datetimepicker1').datetimepicker();
-// end inline picker===========================>
-      
+$('#datetimepicker1').datetimepicker();      
 
 </script>
 
