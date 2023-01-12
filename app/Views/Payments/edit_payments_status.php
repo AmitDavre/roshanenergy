@@ -31,10 +31,8 @@
 }
 </style>
 
-<!-- start section -->
 <section id="content_wrapper">
 
-     <!-- Start: Topbar -->
     <div class="topbar-header">
         <header id="topbar">
             <div class="topbar-left">
@@ -56,7 +54,6 @@
             </div>
         </header>
     </div>
-    <!-- End: Topbar -->
 
 
     <section id="content">
@@ -81,17 +78,14 @@
 
 
         <div class="main-section">
-            <!--payment data section  -->
             <div class="row">
                 <div class="col-md-12">
                     <div class="panel">
-                        <!-- panel heading section -->
                         <div class="panel-heading">
                             <div class="panel-title hidden-xs">
                                 <span class="glyphicon glyphicon-tasks"></span>Payment Data
                             </div>
                         </div>
-                        <!--end panel heading section -->
 
                         <div class="panel-body">
                             <div class="panel-heading">
@@ -100,7 +94,6 @@
                                 </div>
                             </div>
 
-                            <!-- form for the payment -->
                             <div class="admin-form">
                                 <div id="p1" class="panel heading-border">
                                     <div class="panel-body bg-light">
@@ -110,9 +103,7 @@
                                                 <span>Account Information</span>
                                             </div>
 
-                                            <!-- section-2  -->
                                             <div class="row">
-                                            <!-- account number -->
                                                 <div class="col-md-4">
                                                     <div class="section">
                                                         <label>Account Number:</label>
@@ -122,7 +113,6 @@
                                                         </label>
                                                     </div>
                                                 </div>
-                                            <!-- tenant name -->
                                                 <div class="col-md-4">
                                                      <div class="section">
                                                         <label>Tenant Name:</label>
@@ -133,7 +123,6 @@
                                                     </div>
                                                  </div>
 
-                                                <!-- date billed -->
                                                 <div class="col-md-4">
                                                     <div class="section">
                                                         <label>Date Billed:</label>
@@ -144,9 +133,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <!-- end sec-2 -->
 
-                                            <!-- section-3  -->
                                             <div class="row">
                                                 <!-- bill number -->
                                                 <div class="col-md-4">
@@ -169,7 +156,6 @@
                                                     </div>
                                                 </div>
 
-                                                <!-- status -->
                                                 <div class="col-md-4">
                                                     <div class="section">
                                                         <label>Status:</label>
@@ -180,13 +166,11 @@
                                                     </div>
                                                 </div>
                                             </div><hr>
-                                            <!-- end sec-3 -->
 
                                             <!-- sec-4 -->
                                             <div class="section-btn">
                                                 <button type="submit" class="btn btn-dark" name="update" id="btn_edit" value="update_data">Update</button>
                                             </div>
-                                            <!--end sec-4 -->
                                         </form>
                                     </div>
                                 </div>
