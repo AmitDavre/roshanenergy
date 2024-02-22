@@ -1,4 +1,3 @@
-<!-- EDIT COMMENT 11-01-2024 -->
 <style>
 
 tfoot tr th
