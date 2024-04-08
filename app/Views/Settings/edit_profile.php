@@ -1,8 +1,5 @@
 <?php 
-// echo '<pre>';
-// print_r($_SESSION);
-// echo '</pre>';
-// die();
+
 $session  = session()->get("success");
 $successMessage = $session;
 ?>
